@@ -1,0 +1,39 @@
+{
+  "mdFiles": 3784,
+  "withFrontmatter": 1229,
+  "dataJson": 52,
+  "frontmatterKeyFrequency": [
+    [
+      "placeholder_skeleton",
+      651
+    ],
+    [
+      "translation_pending",
+      651
+    ],
+    [
+      "term_prefilled",
+      244
+    ],
+    [
+      "features",
+      204
+    ],
+    [
+      "hero",
+      204
+    ],
+    [
+      "layout",
+      204
+    ],
+    [
+      "title",
+      140
+    ],
+    [
+      "term_replaced",
+      20
+    ]
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "character": "odette",
+  "title": "奥黛塔文本收录",
+  "tagline": "至冬知名芭蕾舞者·愚人众",
+  "description": "原神奥黛塔相关文本内容收录",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#bae6fd",
+    "brand2": "#7dd3fc",
+    "brand3": "#e0f2fe",
+    "brandSoft": "rgba(186,230,253,0.14)",
+    "brandLight": "#cbeafe",
+    "brandLighter": "#e0f2fe",
+    "brandDark": "#38bdf8",
+    "brandDarker": "#0ea5e9"
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/cryo-official.svg",
+    "elementIcon": "/elements/cryo-official.svg"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": false,
+      "items": [
+        {
+          "text": "1.0 属性数据",
+          "link": "/01 角色资料/1.0 属性数据"
+        },
+        {
+          "text": "1.1 角色详细",
+          "link": "/01 角色资料/1.1 角色详细"
+        },
+        {
+          "text": "1.2 角色故事",
+          "link": "/01 角色资料/1.2 角色故事"
+        },
+        {
+          "text": "1.3 天赋",
+          "link": "/01 角色资料/1.3 天赋"
+        },
+        {
+          "text": "1.4 命之座",
+          "link": "/01 角色资料/1.4 命之座"
+        },
+        {
+          "text": "1.5 突破材料",
+          "link": "/01 角色资料/1.5 突破材料"
+        }
+      ]
+    },
+    {
+      "text": "02 语音",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "2.0 语音列表",
+          "link": "/02 语音/2.0 语音列表"
+        }
+      ]
+    },
+    {
+      "text": "03 故事",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "3.0 角色故事1",
+          "link": "/03 故事/3.0 角色故事1"
+        },
+        {
+          "text": "3.1 角色故事2",
+          "link": "/03 故事/3.1 角色故事2"
+        },
+        {
+          "text": "3.2 角色故事3",
+          "link": "/03 故事/3.2 角色故事3"
+        },
+        {
+          "text": "3.3 角色故事4",
+          "link": "/03 故事/3.3 角色故事4"
+        },
+        {
+          "text": "3.4 角色故事5",
+          "link": "/03 故事/3.4 角色故事5"
+        },
+        {
+          "text": "3.5 角色故事6",
+          "link": "/03 故事/3.5 角色故事6"
+        }
+      ]
+    },
+    {
+      "text": "04 资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "4.0 角色情报",
+          "link": "/04 资料/4.0 角色情报"
+        },
+        {
+          "text": "4.1 特殊料理",
+          "link": "/04 资料/4.1 特殊料理"
+        },
+        {
+          "text": "4.2 推荐配装",
+          "link": "/04 资料/4.2 推荐配装"
+        },
+        {
+          "text": "4.3 队伍搭配",
+          "link": "/04 资料/4.3 队伍搭配"
+        }
+      ]
+    },
+    {
+      "text": "05 媒体",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "5.0 角色PV",
+          "link": "/05 媒体/5.0 角色PV"
+        },
+        {
+          "text": "5.1 角色演示",
+          "link": "/05 媒体/5.1 角色演示"
+        },
+        {
+          "text": "5.2 角色壁纸",
+          "link": "/05 媒体/5.2 角色壁纸"
+        }
+      ]
+    },
+    {
+      "text": "06 成就",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "6.0 角色相关成就",
+          "link": "/06 成就/6.0 角色相关成就"
+        },
+        {
+          "text": "6.1 成就列表",
+          "link": "/06 成就/6.1 成就列表"
+        },
+        {
+          "text": "6.2 名片",
+          "link": "/06 成就/6.2 名片"
+        }
+      ]
+    },
+    {
+      "text": "07 背包物品",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "7.0 角色突破材料",
+          "link": "/07 背包物品/7.0 角色突破材料"
+        },
+        {
+          "text": "7.1 天赋升级材料",
+          "link": "/07 背包物品/7.1 天赋升级材料"
+        },
+        {
+          "text": "7.2 专属武器",
+          "link": "/07 背包物品/7.2 专属武器"
+        },
+        {
+          "text": "7.3 圣遗物推荐",
+          "link": "/07 背包物品/7.3 圣遗物推荐"
+        },
+        {
+          "text": "7.4 特殊料理",
+          "link": "/07 背包物品/7.4 特殊料理"
+        }
+      ]
+    },
+    {
+      "text": "08 尘歌壶",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "8.0 尘歌壶对话",
+          "link": "/08 尘歌壶/8.0 尘歌壶对话"
+        },
+        {
+          "text": "8.1 偏好套装",
+          "link": "/08 尘歌壶/8.1 偏好套装"
+        },
+        {
+          "text": "8.2 赠礼",
+          "link": "/08 尘歌壶/8.2 赠礼"
+        }
+      ]
+    },
+    {
+      "text": "09 幻想真境剧诗",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "9.0 剧诗角色信息",
+          "link": "/09 幻想真境剧诗/9.0 剧诗角色信息"
+        },
+        {
+          "text": "9.1 剧诗专属内容",
+          "link": "/09 幻想真境剧诗/9.1 剧诗专属内容"
+        }
+      ]
+    },
+    {
+      "text": "10 七圣召唤",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "10.0 角色卡牌",
+          "link": "/10 七圣召唤/10.0 角色卡牌"
+        },
+        {
+          "text": "10.1 卡牌效果",
+          "link": "/10 七圣召唤/10.1 卡牌效果"
+        },
+        {
+          "text": "10.2 天赋牌",
+          "link": "/10 七圣召唤/10.2 天赋牌"
+        },
+        {
+          "text": "10.3 推荐牌组",
+          "link": "/10 七圣召唤/10.3 推荐牌组"
+        }
+      ]
+    },
+    {
+      "text": "11 游逸旅闻",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "11.0 旅闻收录",
+          "link": "/11 游逸旅闻/11.0 旅闻收录"
+        },
+        {
+          "text": "11.1 逸闻纪事",
+          "link": "/11 游逸旅闻/11.1 逸闻纪事"
+        }
+      ]
+    },
+    {
+      "text": "12 游戏外相关内容",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "12.0 角色PV",
+          "link": "/12 游戏外相关内容/12.0 角色PV"
+        },
+        {
+          "text": "12.1 角色演示",
+          "link": "/12 游戏外相关内容/12.1 角色演示"
+        },
+        {
+          "text": "12.2 生日邮件",
+          "link": "/12 游戏外相关内容/12.2 生日邮件"
+        },
+        {
+          "text": "12.3 角色逸闻",
+          "link": "/12 游戏外相关内容/12.3 角色逸闻"
+        },
+        {
+          "text": "12.4 过场动画",
+          "link": "/12 游戏外相关内容/12.4 过场动画"
+        }
+      ]
+    },
+    {
+      "text": "13 资源汇总",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "13.0 培养材料汇总",
+          "link": "/13 资源汇总/13.0 培养材料汇总"
+        },
+        {
+          "text": "13.1 角色数据",
+          "link": "/13 资源汇总/13.1 角色数据"
+        },
+        {
+          "text": "13.2 数值对比",
+          "link": "/13 资源汇总/13.2 数值对比"
+        },
+        {
+          "text": "13.3 版本更新记录",
+          "link": "/13 资源汇总/13.3 版本更新记录"
+        }
+      ]
+    },
+    {
+      "text": "14 活动记录",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "14.0 版本活动",
+          "link": "/14 活动记录/14.0 版本活动"
+        },
+        {
+          "text": "14.1 限时剧情",
+          "link": "/14 活动记录/14.1 限时剧情"
+        },
+        {
+          "text": "14.2 联动活动",
+          "link": "/14 活动记录/14.2 联动活动"
+        }
+      ]
+    },
+    {
+      "text": "15 更多内容",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "15.0 角色评价",
+          "link": "/15 更多内容/15.0 角色评价"
+        },
+        {
+          "text": "15.1 抽取建议",
+          "link": "/15 更多内容/15.1 抽取建议"
+        },
+        {
+          "text": "15.2 常见问题",
+          "link": "/15 更多内容/15.2 常见问题"
+        },
+        {
+          "text": "15.3 角色考据",
+          "link": "/15 更多内容/15.3 角色考据"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 原神文本收录计划",
+    "copyright": "© 2026 有缘自然重逢. | 原神文本衍生整理作品 | 游戏资源与文本版权归米哈游所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {},
+  "effects": {},
+  "assets": {}
+}

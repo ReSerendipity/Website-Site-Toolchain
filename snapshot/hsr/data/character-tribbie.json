@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "tribbie",
+    "nameZh": "缇宝",
+    "nameEn": "Tribbie",
+    "nameJa": "トリビー",
+    "nameKo": "트리비",
+    "element": "quantum",
+    "region": "翁法罗斯",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "三倍的幸运，三倍的快乐！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "缇宝文本收录",
+  "site": {
+    "title": {
+      "zh": "缇宝文本收录",
+      "en": "Tribbie Text Archive",
+      "ja": "トリビーテキストアーカイブ",
+      "ko": "트리비 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "缇宝相关文本内容收录",
+      "en": "Tribbie text content archive",
+      "ja": "トリビー関連テキストアーカイブ",
+      "ko": "트리비 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "缇宝,崩坏：星穹铁道,文本收录",
+      "en": "Tribbie,Honkai: Star Rail,text archive",
+      "ja": "トリビー,崩壊：スターレイル,テキスト",
+      "ko": "트리비,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "缇宝文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Tribbie Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "トリビーテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "트리비 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

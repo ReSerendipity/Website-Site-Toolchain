@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "robin",
+    "nameZh": "知更鸟",
+    "nameEn": "Robin",
+    "nameJa": "ロビン",
+    "nameKo": "로빈",
+    "element": "physical",
+    "region": "匹诺康尼",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "让歌声，响彻匹诺康尼！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "知更鸟文本收录",
+  "site": {
+    "title": {
+      "zh": "知更鸟文本收录",
+      "en": "Robin Text Archive",
+      "ja": "ロビンテキストアーカイブ",
+      "ko": "로빈 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "知更鸟相关文本内容收录",
+      "en": "Robin text content archive",
+      "ja": "ロビン関連テキストアーカイブ",
+      "ko": "로빈 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "知更鸟,崩坏：星穹铁道,文本收录",
+      "en": "Robin,Honkai: Star Rail,text archive",
+      "ja": "ロビン,崩壊：スターレイル,テキスト",
+      "ko": "로빈,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "知更鸟文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Robin Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ロビンテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "로빈 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,41 @@
+name: Snapshot Gates
+
+# 公开仓的门禁 CI —— 全部在此免费额度内运行，不消耗私有仓 Actions 分钟。
+# 输入是 snapshot/（结构签名，不含游戏正文），由私有仓 tools/snapshot-content.mjs 导出。
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    # 每周一 03:00 UTC：即便无代码改动，也复验一次快照结构与脚本自身
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: snapshot-gates-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci --prefer-offline || npm install --no-audit --no-fund
+
+      - name: 快照结构门禁
+        run: node tools/verify-snapshot.mjs
+
+      - name: 工具链自测
+        run: node tests/run-tests.mjs

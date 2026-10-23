@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "anaxa",
+    "nameZh": "那刻夏",
+    "nameEn": "Anaxa",
+    "nameJa": "アナイクス",
+    "nameKo": "아낙사",
+    "element": "wind",
+    "region": "翁法罗斯",
+    "path": "erudition",
+    "rarity": 5,
+    "tagline": "真理的尽头，是新的起点。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "那刻夏文本收录",
+  "site": {
+    "title": {
+      "zh": "那刻夏文本收录",
+      "en": "Anaxa Text Archive",
+      "ja": "アナクサテキストアーカイブ",
+      "ko": "아나크사 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "那刻夏相关文本内容收录",
+      "en": "Anaxa text content archive",
+      "ja": "アナクサ関連テキストアーカイブ",
+      "ko": "아나크사 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "那刻夏,崩坏：星穹铁道,文本收录",
+      "en": "Anaxa,Honkai: Star Rail,text archive",
+      "ja": "アナクサ,崩壊：スターレイル,テキスト",
+      "ko": "아나크사,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "那刻夏文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Anaxa Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "アナクサテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "아나크사 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

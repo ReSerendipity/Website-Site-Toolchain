@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "gepard",
+    "nameZh": "杰帕德",
+    "nameEn": "Gepard",
+    "nameJa": "ジェパード",
+    "nameKo": "게파드",
+    "element": "ice",
+    "region": "雅利洛-VI",
+    "path": "preservation",
+    "rarity": 5,
+    "tagline": "忠诚并非天生的美德。被效忠之人也需拥有相应的资格。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "杰帕德文本收录",
+  "site": {
+    "title": {
+      "zh": "杰帕德文本收录",
+      "en": "Gepard Text Archive",
+      "ja": "ジェパードテキストアーカイブ",
+      "ko": "게파드 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "杰帕德相关文本内容收录",
+      "en": "Gepard text content archive",
+      "ja": "ジェパード関連テキストアーカイブ",
+      "ko": "게파드 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "杰帕德,崩坏：星穹铁道,文本收录",
+      "en": "Gepard,Honkai: Star Rail,text archive",
+      "ja": "ジェパード,崩壊：スターレイル,テキスト",
+      "ko": "게파드,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "杰帕德文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Gepard Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ジェパードテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "게파드 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "moze",
+    "nameZh": "貊泽",
+    "nameEn": "Moze",
+    "nameJa": "モゼ",
+    "nameKo": "맥택",
+    "element": "lightning",
+    "region": "仙舟「罗浮」",
+    "path": "hunt",
+    "rarity": 4,
+    "tagline": "暗影之中，无人能逃我的追踪。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "貊泽文本收录",
+  "site": {
+    "title": {
+      "zh": "貊泽文本收录",
+      "en": "Moze Text Archive",
+      "ja": "貊沢テキストアーカイブ",
+      "ko": "맥택 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "貊泽相关文本内容收录",
+      "en": "Moze text content archive",
+      "ja": "貊沢関連テキストアーカイブ",
+      "ko": "맥택 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "貊泽,崩坏：星穹铁道,文本收录",
+      "en": "Moze,Honkai: Star Rail,text archive",
+      "ja": "貊沢,崩壊：スターレイル,テキスト",
+      "ko": "맥택,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "貊泽文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Moze Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "貊沢テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "맥택 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

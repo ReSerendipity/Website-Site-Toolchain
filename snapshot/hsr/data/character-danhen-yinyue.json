@@ -1,0 +1,59 @@
+{
+  "character": {
+    "name": "danhen-yinyue",
+    "nameZh": "丹恒•饮月",
+    "nameEn": "Dan Heng • Imbibitor Lunae",
+    "nameJa": "丹恒・飲月",
+    "nameKo": "단항・음월",
+    "element": "imaginary",
+    "region": "仙舟「罗浮」",
+    "path": "destruction",
+    "rarity": 5,
+    "tagline": "持明族的秘密，我比任何人都要清楚。",
+    "variantOf": "danhen",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "丹恒·饮月文本收录",
+  "site": {
+    "title": {
+      "zh": "丹恒·饮月文本收录",
+      "en": "Dan Heng • Imbibitor Lunae Text Archive",
+      "ja": "丹恒・飲月テキストアーカイブ",
+      "ko": "단항・음월 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "丹恒·饮月相关文本内容收录",
+      "en": "Dan Heng • Imbibitor Lunae text content archive",
+      "ja": "丹恒・飲月関連テキストアーカイブ",
+      "ko": "단항・음월 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "丹恒·饮月,崩坏：星穹铁道,文本收录",
+      "en": "Dan Heng • Imbibitor Lunae,Honkai: Star Rail,text archive",
+      "ja": "丹恒・飲月,崩壊：スターレイル,テキスト",
+      "ko": "단항・음월,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "丹恒·饮月文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Dan Heng • Imbibitor Lunae Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "丹恒・飲月テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "단항・음월 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

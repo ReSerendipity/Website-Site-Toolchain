@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "sparkle",
+    "nameZh": "花火",
+    "nameEn": "Sparkle",
+    "nameJa": "花火",
+    "nameKo": "스파클",
+    "element": "quantum",
+    "region": "匹诺康尼",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "人生如戏，全靠演技！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "花火文本收录",
+  "site": {
+    "title": {
+      "zh": "花火文本收录",
+      "en": "Sparkle Text Archive",
+      "ja": "花火テキストアーカイブ",
+      "ko": "스파클 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "花火相关文本内容收录",
+      "en": "Sparkle text content archive",
+      "ja": "花火関連テキストアーカイブ",
+      "ko": "스파클 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "花火,崩坏：星穹铁道,文本收录",
+      "en": "Sparkle,Honkai: Star Rail,text archive",
+      "ja": "花火,崩壊：スターレイル,テキスト",
+      "ko": "스파클,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "花火文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Sparkle Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "花火テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "스파클 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

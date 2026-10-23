@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "archer",
+    "nameZh": "Archer",
+    "nameEn": "Archer",
+    "nameJa": "アーチャー",
+    "nameKo": "아처",
+    "element": "quantum",
+    "region": "星穹列车",
+    "path": "hunt",
+    "rarity": 5,
+    "tagline": "请放心。这一次，我会成为你忠实的代行者，为你献上胜利。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "Archer文本收录",
+  "site": {
+    "title": {
+      "zh": "Archer文本收录",
+      "en": "Archer Text Archive",
+      "ja": "アーチャーテキストアーカイブ",
+      "ko": "아처 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "Archer相关文本内容收录",
+      "en": "Archer related text content archive",
+      "ja": "アーチャー関連テキストアーカイブ",
+      "ko": "아처 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "Archer,崩坏：星穹铁道,文本收录",
+      "en": "Archer,Honkai: Star Rail,text archive",
+      "ja": "アーチャー,崩壊：スターレイル,テキスト",
+      "ko": "아처,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "Archer文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Archer Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "アーチャーテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "아처 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

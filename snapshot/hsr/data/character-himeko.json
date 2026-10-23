@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "himeko",
+    "nameZh": "姬子",
+    "nameEn": "Himeko",
+    "nameJa": "姫子",
+    "nameKo": "히메코",
+    "element": "fire",
+    "region": "星穹列车",
+    "path": "erudition",
+    "rarity": 5,
+    "tagline": "好啦，打起精神来，这就是我们要开拓的新世界！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "姬子文本收录",
+  "site": {
+    "title": {
+      "zh": "姬子文本收录",
+      "en": "Himeko Text Archive",
+      "ja": "姫子テキストアーカイブ",
+      "ko": "히메코 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "姬子相关文本内容收录",
+      "en": "Himeko text content archive",
+      "ja": "姫子関連テキストアーカイブ",
+      "ko": "히메코 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "姬子,崩坏：星穹铁道,文本收录",
+      "en": "Himeko,Honkai: Star Rail,text archive",
+      "ja": "姫子,崩壊：スターレイル,テキスト",
+      "ko": "히메코,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "姬子文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Himeko Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "姫子テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "히메코 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

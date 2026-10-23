@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "danhen",
+    "nameZh": "丹恒",
+    "nameEn": "Dan Heng",
+    "nameJa": "丹恒",
+    "nameKo": "단항",
+    "element": "wind",
+    "region": "星穹列车",
+    "path": "hunt",
+    "rarity": 4,
+    "tagline": "生离死别之事，每分每秒都在宇宙中上演。你我的悲伤是真实的，但也并无特殊之处。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "丹恒文本收录",
+  "site": {
+    "title": {
+      "zh": "丹恒文本收录",
+      "en": "Dan Heng Text Archive",
+      "ja": "丹恒テキストアーカイブ",
+      "ko": "단항 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "丹恒相关文本内容收录",
+      "en": "Dan Heng text content archive",
+      "ja": "丹恒関連テキストアーカイブ",
+      "ko": "단항 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "丹恒,崩坏：星穹铁道,文本收录",
+      "en": "Dan Heng,Honkai: Star Rail,text archive",
+      "ja": "丹恒,崩壊：スターレイル,テキスト",
+      "ko": "단항,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "丹恒文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Dan Heng Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "丹恒テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "단항 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

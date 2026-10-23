@@ -1,0 +1,17 @@
+{
+  "name": "genshin-family-toolchain",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Structure-signature gate tooling for the Genshin/HSR/WuWa/ZZZ character text archives. Ships no game content.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.18 <25"
+  },
+  "scripts": {
+    "snapshot": "node tools/snapshot-content.mjs",
+    "verify": "node tools/verify-snapshot.mjs",
+    "test": "node tests/run-tests.mjs",
+    "gate": "npm run verify && npm test"
+  },
+  "license": "MIT"
+}

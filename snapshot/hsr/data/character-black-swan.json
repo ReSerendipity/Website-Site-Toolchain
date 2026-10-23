@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "black-swan",
+    "nameZh": "黑天鹅",
+    "nameEn": "Black Swan",
+    "nameJa": "ブラックスワン",
+    "nameKo": "블랙 스완",
+    "element": "wind",
+    "region": "匹诺康尼",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "记忆，是一面镜子，也是一条河流。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "黑天鹅文本收录",
+  "site": {
+    "title": {
+      "zh": "黑天鹅文本收录",
+      "en": "Black Swan Text Archive",
+      "ja": "ブラックスワンテキストアーカイブ",
+      "ko": "블랙 스완 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "黑天鹅相关文本内容收录",
+      "en": "Black Swan text content archive",
+      "ja": "ブラックスワン関連テキストアーカイブ",
+      "ko": "블랙 스완 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "黑天鹅,崩坏：星穹铁道,文本收录",
+      "en": "Black Swan,Honkai: Star Rail,text archive",
+      "ja": "ブラックスワン,崩壊：スターレイル,テキスト",
+      "ko": "블랙 스완,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "黑天鹅文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Black Swan Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ブラックスワンテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "블랙 스완 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

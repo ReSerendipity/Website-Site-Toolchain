@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "sushang",
+    "nameZh": "素裳",
+    "nameEn": "Sushang",
+    "nameJa": "素裳",
+    "nameKo": "소상",
+    "element": "physical",
+    "region": "仙舟「罗浮」",
+    "path": "hunt",
+    "rarity": 4,
+    "tagline": "我的剑，只为正义而挥！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "素裳文本收录",
+  "site": {
+    "title": {
+      "zh": "素裳文本收录",
+      "en": "Sushang Text Archive",
+      "ja": "素裳テキストアーカイブ",
+      "ko": "소상 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "素裳相关文本内容收录",
+      "en": "Sushang text content archive",
+      "ja": "素裳関連テキストアーカイブ",
+      "ko": "소상 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "素裳,崩坏：星穹铁道,文本收录",
+      "en": "Sushang,Honkai: Star Rail,text archive",
+      "ja": "素裳,崩壊：スターレイル,テキスト",
+      "ko": "소상,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "素裳文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Sushang Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "素裳テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "소상 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

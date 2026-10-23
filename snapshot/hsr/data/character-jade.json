@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "jade",
+    "nameZh": "翡翠",
+    "nameEn": "Jade",
+    "nameJa": "ジェード",
+    "nameKo": "제이드",
+    "element": "quantum",
+    "region": "匹诺康尼",
+    "path": "erudition",
+    "rarity": 5,
+    "tagline": "价值，由我来定义。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "翡翠文本收录",
+  "site": {
+    "title": {
+      "zh": "翡翠文本收录",
+      "en": "Jade Text Archive",
+      "ja": "ジェードテキストアーカイブ",
+      "ko": "제이드 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "翡翠相关文本内容收录",
+      "en": "Jade text content archive",
+      "ja": "ジェード関連テキストアーカイブ",
+      "ko": "제이드 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "翡翠,崩坏：星穹铁道,文本收录",
+      "en": "Jade,Honkai: Star Rail,text archive",
+      "ja": "ジェード,崩壊：スターレイル,テキスト",
+      "ko": "제이드,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "翡翠文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Jade Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ジェードテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "제이드 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

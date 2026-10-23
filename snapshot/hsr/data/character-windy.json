@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "windy",
+    "nameZh": "风堇",
+    "nameEn": "Windy",
+    "nameJa": "フーチン",
+    "nameKo": "풍근",
+    "element": "wind",
+    "region": "二相乐园",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "欢迎来到二相乐园，风会带你去往想去的地方。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "风堇文本收录",
+  "site": {
+    "title": {
+      "zh": "风堇文本收录",
+      "en": "Windy Text Archive",
+      "ja": "フーチンテキストアーカイブ",
+      "ko": "풍근 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "风堇相关文本内容收录",
+      "en": "Windy related text content archive",
+      "ja": "フーチン関連テキストアーカイブ",
+      "ko": "풍근 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "风堇,崩坏：星穹铁道,文本收录",
+      "en": "Windy,Honkai: Star Rail,text archive",
+      "ja": "フーチン,崩壊：スターレイル,テキスト",
+      "ko": "풍근,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "风堇文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Windy Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "フーチンテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "풍근 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

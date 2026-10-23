@@ -1,0 +1,59 @@
+{
+  "character": {
+    "name": "mortenax-blade",
+    "nameZh": "千冶·刃",
+    "nameEn": "Mortenax Blade",
+    "nameJa": "モルテナックス・ブレード",
+    "nameKo": "모르테나크스 블레이드",
+    "element": "fire",
+    "region": "二相乐园",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "千冶之炉火，锻造出最锋利的刃。",
+    "variantOf": "blade",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "千冶·刃文本收录",
+  "site": {
+    "title": {
+      "zh": "千冶·刃文本收录",
+      "en": "Mortenax Blade Text Archive",
+      "ja": "モルテナックス・ブレードテキストアーカイブ",
+      "ko": "모르테나크스 블레이드 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "千冶·刃相关文本内容收录",
+      "en": "Mortenax Blade related text content archive",
+      "ja": "モルテナックス・ブレード関連テキストアーカイブ",
+      "ko": "모르테나크스 블레이드 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "千冶·刃,崩坏：星穹铁道,文本收录",
+      "en": "Mortenax Blade,Honkai: Star Rail,text archive",
+      "ja": "モルテナックス・ブレード,崩壊：スターレイル,テキスト",
+      "ko": "모르테나크스 블레이드,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "千冶·刃文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Mortenax Blade Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "モルテナックス・ブレードテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "모르테나크스 블레이드 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

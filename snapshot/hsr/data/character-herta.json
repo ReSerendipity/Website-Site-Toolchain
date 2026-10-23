@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "herta",
+    "nameZh": "黑塔",
+    "nameEn": "Herta",
+    "nameJa": "ヘルタ",
+    "nameKo": "헤르타",
+    "element": "ice",
+    "region": "空间站「黑塔」",
+    "path": "erudition",
+    "rarity": 4,
+    "tagline": "我是黑塔，天才俱乐部#83，你们口中的「那位大人」。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "黑塔文本收录",
+  "site": {
+    "title": {
+      "zh": "黑塔文本收录",
+      "en": "Herta Text Archive",
+      "ja": "ヘルタテキストアーカイブ",
+      "ko": "헤르타 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "黑塔相关文本内容收录",
+      "en": "Herta text content archive",
+      "ja": "ヘルタ関連テキストアーカイブ",
+      "ko": "헤르타 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "黑塔,崩坏：星穹铁道,文本收录",
+      "en": "Herta,Honkai: Star Rail,text archive",
+      "ja": "ヘルタ,崩壊：スターレイル,テキスト",
+      "ko": "헤르타,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "黑塔文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Herta Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ヘルタテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "헤르타 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

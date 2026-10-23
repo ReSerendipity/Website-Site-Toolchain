@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "huohuo",
+    "nameZh": "藿藿",
+    "nameEn": "Huohuo",
+    "nameJa": "藿藿",
+    "nameKo": "곽곽",
+    "element": "wind",
+    "region": "仙舟「罗浮」",
+    "path": "abundance",
+    "rarity": 5,
+    "tagline": "呜呜……别、别吓我……",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "藿藿文本收录",
+  "site": {
+    "title": {
+      "zh": "藿藿文本收录",
+      "en": "Huohuo Text Archive",
+      "ja": "藿藿テキストアーカイブ",
+      "ko": "곽곽 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "藿藿相关文本内容收录",
+      "en": "Huohuo text content archive",
+      "ja": "藿藿関連テキストアーカイブ",
+      "ko": "곽곽 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "藿藿,崩坏：星穹铁道,文本收录",
+      "en": "Huohuo,Honkai: Star Rail,text archive",
+      "ja": "藿藿,崩壊：スターレイル,テキスト",
+      "ko": "곽곽,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "藿藿文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Huohuo Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "藿藿テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "곽곽 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

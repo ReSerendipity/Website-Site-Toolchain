@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "角色名",
+    "nameZh": "角色中文名",
+    "nameEn": "Character Name",
+    "nameJa": "キャラクター名",
+    "nameKo": "캐릭터 이름",
+    "element": "physical",
+    "region": "星穹列车",
+    "path": "destruction",
+    "rarity": 5,
+    "tagline": "",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "角色名文本收录",
+  "site": {
+    "title": {
+      "zh": "角色名文本收录",
+      "en": "Character Name Text Archive",
+      "ja": "キャラクターテキストアーカイブ",
+      "ko": "캐릭터 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "角色名相关文本内容收录",
+      "en": "Character Name text content archive",
+      "ja": "キャラクター関連テキストアーカイブ",
+      "ko": "캐릭터 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "角色名,文本收录",
+      "en": "character name,text archive",
+      "ja": "キャラクター,テキスト",
+      "ko": "캐릭터,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "角色名文本收录 | 游戏内容版权归版权方所有",
+    "en": "Character Name Text Archive | Game content copyright belongs to the copyright holder",
+    "ja": "キャラクターテキストアーカイブ | ゲームコンテンツの著作権は権利者に帰属します",
+    "ko": "캐릭터 텍스트 아카이브 | 게임 콘텐츠 저작권은 권리자에게 있습니다"
+  },
+  "effects": {}
+}

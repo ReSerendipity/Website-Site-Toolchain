@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "rappa",
+    "nameZh": "乱破",
+    "nameEn": "Rappa",
+    "nameJa": "ラッパ",
+    "nameKo": "라파",
+    "element": "imaginary",
+    "region": "匹诺康尼",
+    "path": "erudition",
+    "rarity": 5,
+    "tagline": "乱破登场！准备好迎接这场华丽的演出了吗？",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "乱破文本收录",
+  "site": {
+    "title": {
+      "zh": "乱破文本收录",
+      "en": "Rappa Text Archive",
+      "ja": "ラッパテキストアーカイブ",
+      "ko": "라파 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "乱破相关文本内容收录",
+      "en": "Rappa related text content archive",
+      "ja": "ラッパ関連テキストアーカイブ",
+      "ko": "라파 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "乱破,崩坏：星穹铁道,文本收录",
+      "en": "Rappa,Honkai: Star Rail,text archive",
+      "ja": "ラッパ,崩壊：スターレイル,テキスト",
+      "ko": "라파,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "乱破文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Rappa Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ラッパテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "라파 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,59 @@
+{
+  "character": {
+    "name": "the-herta",
+    "nameZh": "大黑塔",
+    "nameEn": "The Herta",
+    "nameJa": "ヘルタ",
+    "nameKo": "더 헤르타",
+    "element": "ice",
+    "region": "空间站「黑塔」",
+    "path": "erudition",
+    "rarity": 5,
+    "tagline": "博识学会的撰稿人曾想为我增设一条头衔…叫什么「独一黑塔」，庸俗。所以我给了条建议——我就自称「大黑塔」，简洁直观，信、达、雅。",
+    "variantOf": "herta",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "大黑塔文本收录",
+  "site": {
+    "title": {
+      "zh": "大黑塔文本收录",
+      "en": "The Herta Text Archive",
+      "ja": "ヘルタテキストアーカイブ",
+      "ko": "더 헤르타 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "大黑塔相关文本内容收录",
+      "en": "The Herta related text content archive",
+      "ja": "ヘルタ関連テキストアーカイブ",
+      "ko": "더 헤르타 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "大黑塔,崩坏：星穹铁道,文本收录",
+      "en": "The Herta,Honkai: Star Rail,text archive",
+      "ja": "ヘルタ,崩壊：スターレイル,テキスト",
+      "ko": "더 헤르타,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "大黑塔文本收录 | 游戏内容版权归米哈游所有",
+    "en": "The Herta Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ヘルタテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "더 헤르타 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "dr-ratio",
+    "nameZh": "真理医生",
+    "nameEn": "Dr. Ratio",
+    "nameJa": "レイシオ",
+    "nameKo": "레이시오",
+    "element": "imaginary",
+    "region": "匹诺康尼",
+    "path": "hunt",
+    "rarity": 5,
+    "tagline": "知识，是最强大的武器。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "真理医生文本收录",
+  "site": {
+    "title": {
+      "zh": "真理医生文本收录",
+      "en": "Dr. Ratio Text Archive",
+      "ja": "レイシオテキストアーカイブ",
+      "ko": "레이시오 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "真理医生相关文本内容收录",
+      "en": "Dr. Ratio text content archive",
+      "ja": "レイシオ関連テキストアーカイブ",
+      "ko": "레이시오 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "真理医生,崩坏：星穹铁道,文本收录",
+      "en": "Dr. Ratio,Honkai: Star Rail,text archive",
+      "ja": "レイシオ,崩壊：スターレイル,テキスト",
+      "ko": "레이시오,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "真理医生文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Dr. Ratio Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "レイシオテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "레이시오 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

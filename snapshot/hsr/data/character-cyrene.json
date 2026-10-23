@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "cyrene",
+    "nameZh": "昔涟",
+    "nameEn": "Cyrene",
+    "nameJa": "キュレネ",
+    "nameKo": "키레네",
+    "element": "ice",
+    "region": "翁法罗斯",
+    "path": "remembrance",
+    "rarity": 5,
+    "tagline": "流星划过夜空，生命的长河荡起涟漪，闪烁十三种光彩。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "昔涟文本收录",
+  "site": {
+    "title": {
+      "zh": "白厄文本收录",
+      "en": "Cyrene Text Archive",
+      "ja": "キュレネテキストアーカイブ",
+      "ko": "키레네 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "白厄相关文本内容收录",
+      "en": "Cyrene related text content archive",
+      "ja": "キュレネ関連テキストアーカイブ",
+      "ko": "키레네 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "白厄,崩坏：星穹铁道,文本收录",
+      "en": "Cyrene,Honkai: Star Rail,text archive",
+      "ja": "キュレネ,崩壊：スターレイル,テキスト",
+      "ko": "키레네,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "白厄文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Cyrene Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "キュレネテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "키레네 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

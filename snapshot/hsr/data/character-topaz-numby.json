@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "topaz-numby",
+    "nameZh": "托帕&账账",
+    "nameEn": "Topaz & Numby",
+    "nameJa": "トパーズ&カブ",
+    "nameKo": "토파즈&냥비",
+    "element": "fire",
+    "region": "匹诺康尼",
+    "path": "hunt",
+    "rarity": 5,
+    "tagline": "账账！看你的了！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "托帕&账账文本收录",
+  "site": {
+    "title": {
+      "zh": "托帕&账账文本收录",
+      "en": "Topaz & Numby Text Archive",
+      "ja": "トパーズ&カブテキストアーカイブ",
+      "ko": "토파즈&냥비 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "托帕&账账相关文本内容收录",
+      "en": "Topaz & Numby text content archive",
+      "ja": "トパーズ&カブ関連テキストアーカイブ",
+      "ko": "토파즈&냥비 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "托帕&账账,崩坏：星穹铁道,文本收录",
+      "en": "Topaz & Numby,Honkai: Star Rail,text archive",
+      "ja": "トパーズ&カブ,崩壊：スターレイル,テキスト",
+      "ko": "토파즈&냥비,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "托帕&账账文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Topaz & Numby Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "トパーズ&カブテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "토파즈&냥비 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

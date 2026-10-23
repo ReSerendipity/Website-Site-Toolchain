@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "jiaoqiu",
+    "nameZh": "椒丘",
+    "nameEn": "Jiaoqiu",
+    "nameJa": "椒丘",
+    "nameKo": "초구",
+    "element": "fire",
+    "region": "仙舟「罗浮」",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "良药苦口，但你不会尝到苦味。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "椒丘文本收录",
+  "site": {
+    "title": {
+      "zh": "椒丘文本收录",
+      "en": "Jiaoqiu Text Archive",
+      "ja": "椒丘テキストアーカイブ",
+      "ko": "초구 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "椒丘相关文本内容收录",
+      "en": "Jiaoqiu text content archive",
+      "ja": "椒丘関連テキストアーカイブ",
+      "ko": "초구 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "椒丘,崩坏：星穹铁道,文本收录",
+      "en": "Jiaoqiu,Honkai: Star Rail,text archive",
+      "ja": "椒丘,崩壊：スターレイル,テキスト",
+      "ko": "초구,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "椒丘文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Jiaoqiu Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "椒丘テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "초구 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

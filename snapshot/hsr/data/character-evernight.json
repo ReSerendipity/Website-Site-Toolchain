@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "evernight",
+    "nameZh": "长夜月",
+    "nameEn": "Evernight",
+    "nameJa": "イバーナイト",
+    "nameKo": "이버나이트",
+    "element": "ice",
+    "region": "翁法罗斯",
+    "path": "remembrance",
+    "rarity": 5,
+    "tagline": "长夜降临，我将在黑暗中守望黎明。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "长夜月文本收录",
+  "site": {
+    "title": {
+      "zh": "长夜月文本收录",
+      "en": "Evernight Text Archive",
+      "ja": "イバーナイトテキストアーカイブ",
+      "ko": "이버나이트 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "长夜月相关文本内容收录",
+      "en": "Evernight related text content archive",
+      "ja": "イバーナイト関連テキストアーカイブ",
+      "ko": "이버나이트 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "长夜月,崩坏：星穹铁道,文本收录",
+      "en": "Evernight,Honkai: Star Rail,text archive",
+      "ja": "イバーナイト,崩壊：スターレイル,テキスト",
+      "ko": "이버나이트,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "长夜月文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Evernight Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "イバーナイトテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "이버나이트 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,59 @@
+{
+  "character": {
+    "name": "danhen-tenghuang",
+    "nameZh": "丹恒•腾荒",
+    "nameEn": "Dan Heng • Windward Spring",
+    "nameJa": "丹恒・騰荒",
+    "nameKo": "단항・등황",
+    "element": "physical",
+    "region": "仙舟「罗浮」",
+    "path": "preservation",
+    "rarity": 5,
+    "tagline": "如你所见，那是『不朽』的力量造就的蜕变。",
+    "variantOf": "danhen",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "丹恒•腾荒文本收录",
+  "site": {
+    "title": {
+      "zh": "丹恒•腾荒文本收录",
+      "en": "Dan Heng • Windward Spring Text Archive",
+      "ja": "丹恒・騰荒テキストアーカイブ",
+      "ko": "단항・등황 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "丹恒•腾荒相关文本内容收录",
+      "en": "Dan Heng • Windward Spring text content archive",
+      "ja": "丹恒・騰荒関連テキストアーカイブ",
+      "ko": "단항・등황 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "丹恒•腾荒,崩坏：星穹铁道,文本收录",
+      "en": "Dan Heng • Windward Spring,Honkai: Star Rail,text archive",
+      "ja": "丹恒・騰荒,崩壊：スターレイル,テキスト",
+      "ko": "단항・등황,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "丹恒•腾荒文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Dan Heng • Windward Spring Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "丹恒・騰荒テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "단항・등황 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,63 @@
+{
+  "mdFiles": 93182,
+  "withFrontmatter": 42321,
+  "dataJson": 123,
+  "frontmatterKeyFrequency": [
+    [
+      "title",
+      41052
+    ],
+    [
+      "_placeholder",
+      3753
+    ],
+    [
+      "order",
+      1194
+    ],
+    [
+      "layout",
+      1121
+    ],
+    [
+      "placeholder",
+      622
+    ],
+    [
+      "hero",
+      466
+    ],
+    [
+      "features",
+      454
+    ],
+    [
+      "search",
+      413
+    ],
+    [
+      "description",
+      9
+    ],
+    [
+      "outline",
+      9
+    ],
+    [
+      "about",
+      3
+    ],
+    [
+      "labels",
+      3
+    ],
+    [
+      "name",
+      3
+    ],
+    [
+      "lang",
+      2
+    ]
+  ]
+}

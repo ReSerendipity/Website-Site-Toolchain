@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "asta",
+    "nameZh": "艾丝妲",
+    "nameEn": "Asta",
+    "nameJa": "アスター",
+    "nameKo": "아스타",
+    "element": "fire",
+    "region": "空间站「黑塔」",
+    "path": "harmony",
+    "rarity": 4,
+    "tagline": "研究经费？这完全不是问题！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "艾丝妲文本收录",
+  "site": {
+    "title": {
+      "zh": "艾丝妲文本收录",
+      "en": "Asta Text Archive",
+      "ja": "アスターテキストアーカイブ",
+      "ko": "아스타 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "艾丝妲相关文本内容收录",
+      "en": "Asta text content archive",
+      "ja": "アスター関連テキストアーカイブ",
+      "ko": "아스타 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "艾丝妲,崩坏：星穹铁道,文本收录",
+      "en": "Asta,Honkai: Star Rail,text archive",
+      "ja": "アスター,崩壊：スターレイル,テキスト",
+      "ko": "아스타,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "艾丝妲文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Asta Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "アスターテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "아스타 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

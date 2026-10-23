@@ -1,0 +1,60 @@
+{
+  "character": {
+    "name": "evanescia",
+    "nameZh": "绯英",
+    "nameEn": "Evanescia",
+    "nameJa": "緋英",
+    "nameKo": "緋英",
+    "element": "physical",
+    "region": "二相乐园",
+    "path": "elation",
+    "rarity": 5,
+    "tagline": "一季幻月满盈，一季人世更迭。",
+    "source": "official",
+    "pendingVerify": true,
+    "sourceNote": "nameJa=緋英 来源：HoYoLAB 官方社区《緋英の名前の由来って》https://www.hoyolab.com/article/43319344 + ASCII.jp 官方通稿（限定星5「緋英」CV 佐倉綾音 / 愉悦・物理）https://ascii.jp/elem/000/004/401/4401888/ + ja.wikipedia 角色表并列行「緋英｜物理｜愉悦｜佐倉綾音」。nameEn=Evanescia 来源：B站 wiki /sr/绯英/语音 页英译自述（\"Evanescia, Evanescia…\"）。nameKo 暂填日文名「緋英」：韩语本地化沿用日文名、官方未提供韩文转写，故不造词；待客户端实机核实后回改（pendingVerify=true 即为此项）。element/path/releaseDate(2026-05-13 4.2)/CV 取自 B站 wiki /sr/绯英 信息框。",
+    "variantOf": null
+  },
+  "title": "绯英文本收录",
+  "site": {
+    "title": {
+      "zh": "绯英文本收录",
+      "en": "Evanescia Text Archive",
+      "ja": "緋英テキストアーカイブ",
+      "ko": "緋英 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "绯英相关文本内容收录",
+      "en": "Evanescia related text content archive",
+      "ja": "緋英関連テキストアーカイブ",
+      "ko": "緋英 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "绯英,崩坏：星穹铁道,文本收录",
+      "en": "Evanescia,Honkai: Star Rail,text archive",
+      "ja": "緋英,崩壊：スターレイル,テキスト",
+      "ko": "緋英,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "绯英文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Evanescia Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "緋英テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "緋英 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

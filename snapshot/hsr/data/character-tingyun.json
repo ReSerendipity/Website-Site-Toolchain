@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "tingyun",
+    "nameZh": "停云",
+    "nameEn": "Tingyun",
+    "nameJa": "停雲",
+    "nameKo": "정운",
+    "element": "lightning",
+    "region": "仙舟「罗浮」",
+    "path": "harmony",
+    "rarity": 4,
+    "tagline": "做生意嘛，最重要的就是和气生财。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "停云文本收录",
+  "site": {
+    "title": {
+      "zh": "停云文本收录",
+      "en": "Tingyun Text Archive",
+      "ja": "停雲テキストアーカイブ",
+      "ko": "정운 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "停云相关文本内容收录",
+      "en": "Tingyun text content archive",
+      "ja": "停雲関連テキストアーカイブ",
+      "ko": "정운 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "停云,崩坏：星穹铁道,文本收录",
+      "en": "Tingyun,Honkai: Star Rail,text archive",
+      "ja": "停雲,崩壊：スターレイル,テキスト",
+      "ko": "정운,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "停云文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Tingyun Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "停雲テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "정운 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

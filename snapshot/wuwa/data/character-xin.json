@@ -1,0 +1,98 @@
+{
+  "character": {
+    "name": "心",
+    "nameEn": "Xin",
+    "nameJa": "心",
+    "nameKo": "心",
+    "element": "electro",
+    "region": "梦州",
+    "weapon": "rectifier",
+    "tagline": "梦州岁主",
+    "rarity": 5,
+    "version": "3.7",
+    "extra": {
+      "cvZh": "待官方公布",
+      "cvJa": "待官方公布"
+    }
+  },
+  "title": "心文本收录",
+  "tagline": "梦州岁主",
+  "description": "心相关文本内容录入",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#1A237E",
+    "brand2": "#3F51B5",
+    "brand3": "#C5CAE9",
+    "brandSoft": "rgba(26, 35, 126, 0.14)",
+    "brandLight": "#C5CAE9",
+    "brandLighter": "#e8eaf6",
+    "brandDark": "#0d1442",
+    "brandDarker": "#0a0f2e"
+  },
+  "theme": {
+    "gradient": {
+      "start": "#3F51B5",
+      "mid": "#1A237E",
+      "end": "#C5CAE9"
+    },
+    "quoteGradient": {
+      "start": "#3F51B5",
+      "end": "#C5CAE9"
+    }
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/electro-official.png",
+    "elementIcon": "/elements/electro-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 鸣潮文本收录计划",
+    "copyright": "© 2025 有缘自然重逢. | 鸣潮文本衍生整理作品 | 游戏资源与文本版权归库洛游戏所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {
+    "name": "心",
+    "text": "梦州岁主"
+  },
+  "effects": {
+    "enabled": true,
+    "type": "electro",
+    "particleCount": 30
+  },
+  "assets": {
+    "heroBackgroundImage": "/images/center.png"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "character": {
+    "name": "仪玄",
+    "nameEn": "Yi Xuan",
+    "nameJa": "",
+    "nameKo": "",
+    "attribute": "ether",
+    "faction": "云岿山",
+    "wEngine": ""
+  },
+  "_verification": {
+    "status": "pending-client-verify",
+    "source": "",
+    "notes": []
+  },
+  "title": "示例角色文本收录",
+  "tagline": "",
+  "description": "相关文本内容收录",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#FF2E97",
+    "brand2": "#00E5FF",
+    "brand3": "#FFD24E",
+    "brandSoft": "#20203a",
+    "brandLight": "#FF6FB5",
+    "brandLighter": "#ffd6ea",
+    "brandDark": "#0a0a12",
+    "brandDarker": "#050509"
+  },
+  "theme": {
+    "gradient": {
+      "start": "#00E5FF",
+      "mid": "#FF2E97",
+      "end": "#FFD24E"
+    },
+    "quoteGradient": {
+      "start": "#00E5FF",
+      "end": "#FFD24E"
+    }
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/images/center.png",
+    "elementIcon": "/elements/ether-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 绝区零文本收录计划",
+    "copyright": "© 2025 绝区零文本衍生整理作品 | 游戏资源与文本版权归 HoYoverse（米哈游）所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {
+    "name": "",
+    "text": ""
+  },
+  "effects": {
+    "enabled": true,
+    "type": "ether",
+    "particleCount": 30
+  },
+  "assets": {
+    "heroBackgroundImage": "/images/center.png"
+  },
+  "_roster": {
+    "rarity": "S",
+    "specialty": "Rupture",
+    "factionEn": "Yunkui Summit"
+  }
+}

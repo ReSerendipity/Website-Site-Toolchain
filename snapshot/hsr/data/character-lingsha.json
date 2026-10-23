@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "lingsha",
+    "nameZh": "灵砂",
+    "nameEn": "Lingsha",
+    "nameJa": "霊砂",
+    "nameKo": "영사",
+    "element": "fire",
+    "region": "仙舟「罗浮」",
+    "path": "abundance",
+    "rarity": 5,
+    "tagline": "药到病除，手到擒来。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "灵砂文本收录",
+  "site": {
+    "title": {
+      "zh": "灵砂文本收录",
+      "en": "Lingsha Text Archive",
+      "ja": "霊砂テキストアーカイブ",
+      "ko": "영사 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "灵砂相关文本内容收录",
+      "en": "Lingsha text content archive",
+      "ja": "霊砂関連テキストアーカイブ",
+      "ko": "영사 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "灵砂,崩坏：星穹铁道,文本收录",
+      "en": "Lingsha,Honkai: Star Rail,text archive",
+      "ja": "霊砂,崩壊：スターレイル,テキスト",
+      "ko": "영사,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "灵砂文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Lingsha Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "霊砂テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "영사 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "sunday",
+    "nameZh": "星期日",
+    "nameEn": "Sunday",
+    "nameJa": "サンデー",
+    "nameKo": "선데이",
+    "element": "imaginary",
+    "region": "匹诺康尼",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "秩序，是一切美好的根基。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "星期日文本收录",
+  "site": {
+    "title": {
+      "zh": "星期日文本收录",
+      "en": "Sunday Text Archive",
+      "ja": "サンデーテキストアーカイブ",
+      "ko": "선데이 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "星期日相关文本内容收录",
+      "en": "Sunday text content archive",
+      "ja": "サンデー関連テキストアーカイブ",
+      "ko": "선데이 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "星期日,崩坏：星穹铁道,文本收录",
+      "en": "Sunday,Honkai: Star Rail,text archive",
+      "ja": "サンデー,崩壊：スターレイル,テキスト",
+      "ko": "선데이,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "星期日文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Sunday Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "サンデーテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "선데이 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

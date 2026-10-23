@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "yukong",
+    "nameZh": "驭空",
+    "nameEn": "Yukong",
+    "nameJa": "馭空",
+    "nameKo": "어공",
+    "element": "imaginary",
+    "region": "仙舟「罗浮」",
+    "path": "harmony",
+    "rarity": 4,
+    "tagline": "我已经飞过天空，所以我知道——那里没有什么可怕的。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "驭空文本收录",
+  "site": {
+    "title": {
+      "zh": "驭空文本收录",
+      "en": "Yukong Text Archive",
+      "ja": "馭空テキストアーカイブ",
+      "ko": "어공 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "驭空相关文本内容收录",
+      "en": "Yukong text content archive",
+      "ja": "馭空関連テキストアーカイブ",
+      "ko": "어공 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "驭空,崩坏：星穹铁道,文本收录",
+      "en": "Yukong,Honkai: Star Rail,text archive",
+      "ja": "馭空,崩壊：スターレイル,テキスト",
+      "ko": "어공,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "驭空文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Yukong Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "馭空テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "어공 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

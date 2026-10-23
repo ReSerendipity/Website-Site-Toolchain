@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "hysilens",
+    "nameZh": "海瑟音",
+    "nameEn": "Hysilens",
+    "nameJa": "ハイシレンス",
+    "nameKo": "하이실렌스",
+    "element": "physical",
+    "region": "二相乐园",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "海瑟音的旋律，会让所有敌人陷入沉默。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "海瑟音文本收录",
+  "site": {
+    "title": {
+      "zh": "海瑟音文本收录",
+      "en": "Hysilens Text Archive",
+      "ja": "ハイシレンステキストアーカイブ",
+      "ko": "하이실렌스 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "海瑟音相关文本内容收录",
+      "en": "Hysilens related text content archive",
+      "ja": "ハイシレンス関連テキストアーカイブ",
+      "ko": "하이실렌스 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "海瑟音,崩坏：星穹铁道,文本收录",
+      "en": "Hysilens,Honkai: Star Rail,text archive",
+      "ja": "ハイシレンス,崩壊：スターレイル,テキスト",
+      "ko": "하이실렌스,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "海瑟音文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Hysilens Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ハイシレンステキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "하이실렌스 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

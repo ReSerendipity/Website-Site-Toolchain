@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "natasha",
+    "nameZh": "娜塔莎",
+    "nameEn": "Natasha",
+    "nameJa": "ナターシャ",
+    "nameKo": "나타샤",
+    "element": "physical",
+    "region": "雅利洛-VI",
+    "path": "abundance",
+    "rarity": 4,
+    "tagline": "别怕，娜塔莎姐姐来照顾你了。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "娜塔莎文本收录",
+  "site": {
+    "title": {
+      "zh": "娜塔莎文本收录",
+      "en": "Natasha Text Archive",
+      "ja": "ナターシャテキストアーカイブ",
+      "ko": "나타샤 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "娜塔莎相关文本内容收录",
+      "en": "Natasha text content archive",
+      "ja": "ナターシャ関連テキストアーカイブ",
+      "ko": "나타샤 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "娜塔莎,崩坏：星穹铁道,文本收录",
+      "en": "Natasha,Honkai: Star Rail,text archive",
+      "ja": "ナターシャ,崩壊：スターレイル,テキスト",
+      "ko": "나타샤,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "娜塔莎文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Natasha Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ナターシャテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "나타샤 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

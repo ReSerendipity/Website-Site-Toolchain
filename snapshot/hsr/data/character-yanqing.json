@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "yanqing",
+    "nameZh": "彦卿",
+    "nameEn": "Yanqing",
+    "nameJa": "彦卿",
+    "nameKo": "연경",
+    "element": "ice",
+    "region": "仙舟「罗浮」",
+    "path": "hunt",
+    "rarity": 5,
+    "tagline": "天下无敌！这就是我追求的剑道！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "彦卿文本收录",
+  "site": {
+    "title": {
+      "zh": "彦卿文本收录",
+      "en": "Yanqing Text Archive",
+      "ja": "彦卿テキストアーカイブ",
+      "ko": "연경 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "彦卿相关文本内容收录",
+      "en": "Yanqing text content archive",
+      "ja": "彦卿関連テキストアーカイブ",
+      "ko": "연경 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "彦卿,崩坏：星穹铁道,文本收录",
+      "en": "Yanqing,Honkai: Star Rail,text archive",
+      "ja": "彦卿,崩壊：スターレイル,テキスト",
+      "ko": "연경,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "彦卿文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Yanqing Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "彦卿テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "연경 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

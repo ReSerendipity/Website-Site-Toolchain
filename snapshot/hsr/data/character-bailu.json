@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "bailu",
+    "nameZh": "白露",
+    "nameEn": "Bailu",
+    "nameJa": "白露",
+    "nameKo": "백로",
+    "element": "lightning",
+    "region": "仙舟「罗浮」",
+    "path": "abundance",
+    "rarity": 5,
+    "tagline": "别急别急，排好队，一个一个来！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "白露文本收录",
+  "site": {
+    "title": {
+      "zh": "白露文本收录",
+      "en": "Bailu Text Archive",
+      "ja": "白露テキストアーカイブ",
+      "ko": "백로 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "白露相关文本内容收录",
+      "en": "Bailu text content archive",
+      "ja": "白露関連テキストアーカイブ",
+      "ko": "백로 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "白露,崩坏：星穹铁道,文本收录",
+      "en": "Bailu,Honkai: Star Rail,text archive",
+      "ja": "白露,崩壊：スターレイル,テキスト",
+      "ko": "백로,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "白露文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Bailu Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "白露テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "백로 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

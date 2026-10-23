@@ -1,0 +1,81 @@
+{
+  "character": "kaeya",
+  "title": "凯亚文本收录",
+  "tagline": "",
+  "description": "",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#99d5e8",
+    "brand2": "#67c8e3",
+    "brand3": "#b8e6f0",
+    "brandSoft": "rgba(153, 213, 232, 0.14)",
+    "brandLight": "#b8e6f0",
+    "brandLighter": "#d1fae5",
+    "brandDark": "#059669",
+    "brandDarker": "#047857"
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/cryo-official.png",
+    "elementIcon": "/elements/cryo-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "1.1 角色-资料页", "link": "/01 角色资料/1.1 角色-资料页" },
+        { "text": "1.2 角色故事", "link": "/01 角色资料/1.2 角色故事" },
+        { "text": "1.3 语音", "link": "/01 角色资料/1.3 语音" },
+        { "text": "1.4 装扮-衣装", "link": "/01 角色资料/1.4 装扮-衣装" },
+        { "text": "1.5 名片", "link": "/01 角色资料/1.5 名片" },
+        { "text": "1.6 特色料理", "link": "/01 角色资料/1.6 特色料理" },
+        { "text": "1.7 活动祈愿名", "link": "/01 角色资料/1.7 活动祈愿名" },
+        { "text": "1.8 命之座-天赋", "link": "/01 角色资料/1.8 命之座-天赋" },
+        { "text": "1.9 角色登场立绘介绍", "link": "/01 角色资料/1.9 角色登场立绘介绍" },
+        { "text": "1.10 生日", "link": "/01 角色资料/1.10 生日" },
+        { "text": "1.11 活动-角色介绍", "link": "/01 角色资料/1.11 活动-角色介绍" },
+        { "text": "1.12 角色PV", "link": "/01 角色资料/1.12 角色PV" },
+        { "text": "1.13 角色演示", "link": "/01 角色资料/1.13 角色演示" },
+        { "text": "1.14 拾枝杂谈", "link": "/01 角色资料/1.14 拾枝杂谈" },
+        { "text": "1.15 官方EP", "link": "/01 角色资料/1.15 官方EP" },
+        { "text": "1.17 复刻小记", "link": "/01 角色资料/1.17 复刻小记" },
+        { "text": "1.18 好感故事", "link": "/01 角色资料/1.18 好感故事" },
+        { "text": "1.19 待机动作", "link": "/01 角色资料/1.19 待机动作" },
+        { "text": "1.20 天赋详情", "link": "/01 角色资料/1.20 天赋详情" },
+        { "text": "1.21 角色语音·战斗", "link": "/01 角色资料/1.21 角色语音·战斗" },
+        { "text": "1.22 角色语音·系统", "link": "/01 角色资料/1.22 角色语音·系统" },
+        { "text": "1.23 命之座详情", "link": "/01 角色资料/1.23 命之座详情" }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 原神文本收录计划",
+    "copyright": "© 2026 有缘自然重逢. | 原神文本衍生整理作品 | 游戏资源与文本版权归米哈游所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {},
+  "effects": {},
+  "assets": {}
+}

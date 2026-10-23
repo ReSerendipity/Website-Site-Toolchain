@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "march7th",
+    "nameZh": "三月七",
+    "nameEn": "March 7th",
+    "nameJa": "三月なのか",
+    "nameKo": "Mar. 7th",
+    "element": "ice",
+    "region": "星穹列车",
+    "path": "preservation",
+    "rarity": 4,
+    "tagline": "这回我可没惹麻烦，还救了大家，所以我就不谦虚了，我真厉害！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "三月七文本收录",
+  "site": {
+    "title": {
+      "zh": "三月七文本收录",
+      "en": "March 7th Text Archive",
+      "ja": "三月なのかテキストアーカイブ",
+      "ko": "Mar. 7th 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "三月七相关文本内容收录",
+      "en": "March 7th text content archive",
+      "ja": "三月なのか関連テキストアーカイブ",
+      "ko": "Mar. 7th 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "三月七,崩坏：星穹铁道,文本收录",
+      "en": "March 7th,Honkai: Star Rail,text archive",
+      "ja": "三月なのか,崩壊：スターレイル,テキスト",
+      "ko": "Mar. 7th,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "三月七文本收录 | 游戏内容版权归米哈游所有",
+    "en": "March 7th Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "三月なのかテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "Mar. 7th 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

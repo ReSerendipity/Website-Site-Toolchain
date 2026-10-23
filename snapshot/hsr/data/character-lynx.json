@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "lynx",
+    "nameZh": "玲可",
+    "nameEn": "Lynx",
+    "nameJa": "リンクス",
+    "nameKo": "링스",
+    "element": "quantum",
+    "region": "雅利洛-VI",
+    "path": "abundance",
+    "rarity": 4,
+    "tagline": "数据，是不会说谎的。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "玲可文本收录",
+  "site": {
+    "title": {
+      "zh": "玲可文本收录",
+      "en": "Lynx Text Archive",
+      "ja": "リンクステキストアーカイブ",
+      "ko": "링스 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "玲可相关文本内容收录",
+      "en": "Lynx text content archive",
+      "ja": "リンクス関連テキストアーカイブ",
+      "ko": "링스 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "玲可,崩坏：星穹铁道,文本收录",
+      "en": "Lynx,Honkai: Star Rail,text archive",
+      "ja": "リンクス,崩壊：スターレイル,テキスト",
+      "ko": "링스,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "玲可文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Lynx Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "リンクステキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "링스 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

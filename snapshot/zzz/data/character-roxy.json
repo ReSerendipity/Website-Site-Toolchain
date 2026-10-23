@@ -1,0 +1,215 @@
+{
+  "character": {
+    "name": "洛克茜",
+    "nameEn": "Roxy Ifrita Pryce",
+    "nameJa": "ロクシー・イフライタ・プライス",
+    "nameKo": "록시 이프리타 프라이스(仮)",
+    "attribute": "wind",
+    "faction": "罗斯凯利法·弗林特工坊",
+    "wEngine": "击破",
+    "specialty": "击破",
+    "specialtyEn": "Stun",
+    "rarity": "S",
+    "cvZh": "刘一蕾",
+    "cvJa": "赤崎千夏",
+    "cvKo": "",
+    "releaseDate": "",
+    "version": "3.2",
+    "tagline": "服务于克拉蕾（官方定位 · 待客户端覆核）"
+  },
+  "_verification": {
+    "status": "pending-client-verify",
+    "source": "社区情报（3.2 版本官方预告 PV / B站 Wiki / Fandom Wiki，2026-09-09 上线当日前期核验）",
+    "notes": [
+      "英文名 Roxy Ifrita Pryce / 日文名 ロクシー・イフライタ・プライス 来自 3.2 版本官方 PV/冒头画面推定，待客户端覆核",
+      "中文 CV 刘一蕾、日文 CV 赤崎千夏出自官方 PV 声优表（待客户端覆核）；韩文 CV 未公开，留空",
+      "属性 wind（风）/ 职业 击破（Stun）来自官方预告画面与 B 站 Wiki 情报",
+      "官方 PV 明示其服务于克拉蕾·弗林特，为「罗斯凯利法·弗林特工坊」第 2 名可操作代理人",
+      "阵营「罗斯凯利法·弗林特工坊」（Roskelly Flint Workshop）来自官方漫画 / B 站 Wiki"
+    ]
+  },
+  "title": "洛克茜文本收录",
+  "tagline": "风属性 · 击破（服务于克拉蕾的代理人）",
+  "description": "绝区零 3.2 新角色洛克茜的官方文本收录",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#FF2E97",
+    "brand2": "#00E5FF",
+    "brand3": "#FFD24E",
+    "brandSoft": "#20203a",
+    "brandLight": "#FF6FB5",
+    "brandLighter": "#ffd6ea",
+    "brandDark": "#0a0a12",
+    "brandDarker": "#050509"
+  },
+  "theme": {
+    "gradient": {
+      "start": "#00E5FF",
+      "mid": "#FF2E97",
+      "end": "#FFD24E"
+    },
+    "quoteGradient": {
+      "start": "#00E5FF",
+      "end": "#FFD24E"
+    }
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/images/center.png",
+    "elementIcon": "/images/center.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    },
+    {
+      "text": "02 其他角色资料中相关内容",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "2.1 其他角色提及",
+          "link": "/02 其他角色资料中相关内容/2.1 其他角色提及"
+        }
+      ]
+    },
+    {
+      "text": "03 任务文本",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "3.1 主线任务",
+          "link": "/03 任务文本/3.1 主线任务"
+        },
+        {
+          "text": "3.2 伴星任务",
+          "link": "/03 任务文本/3.0-相关任务"
+        },
+        {
+          "text": "3.3 探索任务",
+          "link": "/03 任务文本/3.3 探索任务"
+        }
+      ]
+    },
+    {
+      "text": "04 活动记录",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "4.1 限时活动",
+          "link": "/04 活动记录/4.1 限时活动"
+        }
+      ]
+    },
+    {
+      "text": "05 物品描述",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "5.1 武器",
+          "link": "/05 物品描述/5.1 武器"
+        },
+        {
+          "text": "5.2 音擎",
+          "link": "/05 物品描述/5.2 音擎"
+        }
+      ]
+    },
+    {
+      "text": "06 市民对话",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "6.1 市民对话",
+          "link": "/06 市民对话/6.1 市民对话"
+        }
+      ]
+    },
+    {
+      "text": "07 影与核心技",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "7.0 核心技",
+          "link": "/07 影与核心技/7.0-核心技"
+        }
+      ]
+    },
+    {
+      "text": "08 代理技",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "8.1 技能详情",
+          "link": "/08 代理技/8.1-技能详情"
+        }
+      ]
+    },
+    {
+      "text": "09 资源汇总",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "9.0 培养材料",
+          "link": "/09 资源汇总/9.0-培养材料"
+        },
+        {
+          "text": "9.1 Prasad",
+          "link": "/09 资源汇总/9.1-Prasad"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 绝区零文本收录计划",
+    "copyright": "© 2025 绝区零文本衍生整理作品 | 游戏资源与文本版权归 HoYoverse（米哈游）所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {
+    "name": "洛克茜",
+    "text": ""
+  },
+  "effects": {
+    "enabled": true,
+    "type": "wind",
+    "particleCount": 30
+  },
+  "assets": {
+    "heroBackgroundImage": "/images/center.png"
+  }
+}

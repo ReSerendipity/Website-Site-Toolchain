@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "luka",
+    "nameZh": "卢卡",
+    "nameEn": "Luka",
+    "nameJa": "ルカ",
+    "nameKo": "루카",
+    "element": "physical",
+    "region": "雅利洛-VI",
+    "path": "nihility",
+    "rarity": 4,
+    "tagline": "冠军从来不是天生的，而是打出来的！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "卢卡文本收录",
+  "site": {
+    "title": {
+      "zh": "卢卡文本收录",
+      "en": "Luka Text Archive",
+      "ja": "ルカテキストアーカイブ",
+      "ko": "루카 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "卢卡相关文本内容收录",
+      "en": "Luka text content archive",
+      "ja": "ルカ関連テキストアーカイブ",
+      "ko": "루카 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "卢卡,崩坏：星穹铁道,文本收录",
+      "en": "Luka,Honkai: Star Rail,text archive",
+      "ja": "ルカ,崩壊：スターレイル,テキスト",
+      "ko": "루카,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "卢卡文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Luka Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ルカテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "루카 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "mydei",
+    "nameZh": "万敌",
+    "nameEn": "Mydei",
+    "nameJa": "ミュディ",
+    "nameKo": "미데이",
+    "element": "imaginary",
+    "region": "翁法罗斯",
+    "path": "destruction",
+    "rarity": 5,
+    "tagline": "我是万敌，黄金裔的勇士。拿起武器，我会为你开辟道路。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "万敌文本收录",
+  "site": {
+    "title": {
+      "zh": "万敌文本收录",
+      "en": "Mydei Text Archive",
+      "ja": "ミュディテキストアーカイブ",
+      "ko": "미데이 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "万敌相关文本内容收录",
+      "en": "Mydei related text content archive",
+      "ja": "ミュディ関連テキストアーカイブ",
+      "ko": "미데이 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "万敌,崩坏：星穹铁道,文本收录",
+      "en": "Mydei,Honkai: Star Rail,text archive",
+      "ja": "ミュディ,崩壊：スターレイル,テキスト",
+      "ko": "미데이,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "万敌文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Mydei Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ミュディテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "미데이 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

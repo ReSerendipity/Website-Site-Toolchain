@@ -1,0 +1,174 @@
+{
+  "character": {
+    "name": "锁暝",
+    "nameEn": "Suoming",
+    "nameJa": "鎖暝",
+    "nameKo": "소명",
+    "element": "electro",
+    "region": "梦州",
+    "weapon": "sword",
+    "tagline": "电磁同奏",
+    "rarity": 5,
+    "version": "3.7",
+    "extra": {
+      "cvZh": "待官方公布",
+      "cvJa": "待官方公布"
+    }
+  },
+  "title": "锁暝文本收录",
+  "tagline": "电磁同奏",
+  "description": "锁暝相关文本内容录入",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#1A237E",
+    "brand2": "#3F51B5",
+    "brand3": "#C5CAE9",
+    "brandSoft": "rgba(26, 35, 126, 0.14)",
+    "brandLight": "#C5CAE9",
+    "brandLighter": "#e8eaf6",
+    "brandDark": "#0d1442",
+    "brandDarker": "#0a0f2e"
+  },
+  "theme": {
+    "gradient": {
+      "start": "#3F51B5",
+      "mid": "#1A237E",
+      "end": "#C5CAE9"
+    },
+    "quoteGradient": {
+      "start": "#3F51B5",
+      "end": "#C5CAE9"
+    }
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/electro-official.png",
+    "elementIcon": "/elements/electro-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "0.0 前言", "link": "/00 介绍/0.0 前言" }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "1.1 角色-资料页", "link": "/01 角色资料/1.1 角色-资料页" }
+      ]
+    },
+    {
+      "text": "02 其他角色资料中相关内容",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "2.1 其他角色提及", "link": "/02 其他角色资料中相关内容/2.1 其他角色提及" }
+      ]
+    },
+    {
+      "text": "03 任务文本",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "3.1 主线任务", "link": "/03 任务文本/3.1 主线任务" },
+        { "text": "3.2 伴星任务", "link": "/03 任务文本/3.2 伴星任务" }
+      ]
+    },
+    {
+      "text": "04 活动记录",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "4.1 限时活动", "link": "/04 活动记录/4.1 限时活动" }
+      ]
+    },
+    {
+      "text": "05 物品描述",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "5.1 武器", "link": "/05 物品描述/5.1 武器" },
+        { "text": "5.2 声骸", "link": "/05 物品描述/5.2 声骸" }
+      ]
+    },
+    {
+      "text": "06 NPC对话",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "6.1 NPC对话", "link": "/06 NPC对话/6.1 NPC对话" }
+      ]
+    },
+    {
+      "text": "07 共鸣链详情",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "7.1 共鸣链", "link": "/07 共鸣链详情/7.1 共鸣链" }
+      ]
+    },
+    {
+      "text": "08 技能详情",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "8.1 技能详情", "link": "/08 技能详情/8.1 技能详情" }
+      ]
+    },
+    {
+      "text": "10 角色演示文本",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "10.1 角色演示", "link": "/10 角色演示文本/10.1 角色演示" }
+      ]
+    },
+    {
+      "text": "11 版本活动剧情",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "11.1 版本活动", "link": "/11 版本活动剧情/11.1 版本活动" }
+      ]
+    },
+    {
+      "text": "15 游戏外内容",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        { "text": "15.1 游戏外内容", "link": "/15 游戏外内容/15.1 游戏外内容" }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 鸣潮文本收录计划",
+    "copyright": "© 2025 有缘自然重逢. | 鸣潮文本衍生整理作品 | 游戏资源与文本版权归库洛游戏所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {
+    "name": "锁暝",
+    "text": "电磁同奏"
+  },
+  "effects": {
+    "enabled": true,
+    "type": "electro",
+    "particleCount": 30
+  },
+  "assets": {
+    "heroBackgroundImage": "/images/center.png"
+  }
+}

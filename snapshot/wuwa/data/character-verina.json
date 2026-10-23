@@ -1,0 +1,154 @@
+{
+  "character": {
+    "name": "维里奈",
+    "nameEn": "Verina",
+    "nameJa": "ヴェリーナ",
+    "nameKo": "베리나",
+    "element": "spectro",
+    "region": "新联邦",
+    "weapon": "rectifier"
+  },
+  "title": "维里奈文本收录",
+  "tagline": "",
+  "description": "维里奈相关文本内容收录",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#2E7D32",
+    "brand2": "#66BB6A",
+    "brand3": "#C8E6C9",
+    "brandSoft": "rgba(46, 125, 50, 0.14)",
+    "brandLight": "#C8E6C9",
+    "brandLighter": "#d9eed9",
+    "brandDark": "#205823",
+    "brandDarker": "#173f19"
+  },
+  "theme": {
+    "gradient": {
+      "start": "#66BB6A",
+      "mid": "#2E7D32",
+      "end": "#C8E6C9"
+    },
+    "quoteGradient": {
+      "start": "#66BB6A",
+      "end": "#C8E6C9"
+    }
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/spectro-official.png",
+    "elementIcon": "/elements/spectro-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    },
+    {
+      "text": "02 其他角色资料中相关内容",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "2.1 其他角色提及",
+          "link": "/02 其他角色资料中相关内容/2.1 其他角色提及"
+        }
+      ]
+    },
+    {
+      "text": "03 任务文本",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "3.1 主线任务",
+          "link": "/03 任务文本/3.1 主线任务"
+        },
+        {
+          "text": "3.2 伴星任务",
+          "link": "/03 任务文本/3.2 伴星任务"
+        }
+      ]
+    },
+    {
+      "text": "04 活动记录",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "4.1 限时活动",
+          "link": "/04 活动记录/4.1 限时活动"
+        }
+      ]
+    },
+    {
+      "text": "05 物品描述",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "5.1 武器",
+          "link": "/05 物品描述/5.1 武器"
+        },
+        {
+          "text": "5.2 声骸",
+          "link": "/05 物品描述/5.2 声骸"
+        }
+      ]
+    },
+    {
+      "text": "06 NPC对话",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "6.1 NPC对话",
+          "link": "/06 NPC对话/6.1 NPC对话"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 鸣潮文本收录计划",
+    "copyright": "© 2025 有缘自然重逢. | 鸣潮文本衍生整理作品 | 游戏资源与文本版权归库洛游戏所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {
+    "name": "维里奈",
+    "text": "具有丰富植物知识储备的育种员维里奈，总是微笑，始终温柔，用她的治愈之力呵护每一个朋友。"
+  },
+  "effects": {
+    "enabled": true,
+    "type": "spectro",
+    "particleCount": 30
+  },
+  "assets": {
+    "heroBackgroundImage": "/images/center.png"
+  }
+}

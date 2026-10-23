@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "guinaifen",
+    "nameZh": "桂乃芬",
+    "nameEn": "Guinaifen",
+    "nameJa": "桂乃芬",
+    "nameKo": "귀이네펜",
+    "element": "fire",
+    "region": "仙舟「罗浮」",
+    "path": "nihility",
+    "rarity": 4,
+    "tagline": "好戏，才刚刚开场！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "桂乃芬文本收录",
+  "site": {
+    "title": {
+      "zh": "桂乃芬文本收录",
+      "en": "Guinaifen Text Archive",
+      "ja": "桂乃芬テキストアーカイブ",
+      "ko": "귀이네펜 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "桂乃芬相关文本内容收录",
+      "en": "Guinaifen text content archive",
+      "ja": "桂乃芬関連テキストアーカイブ",
+      "ko": "귀이네펜 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "桂乃芬,崩坏：星穹铁道,文本收录",
+      "en": "Guinaifen,Honkai: Star Rail,text archive",
+      "ja": "桂乃芬,崩壊：スターレイル,テキスト",
+      "ko": "귀이네펜,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "桂乃芬文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Guinaifen Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "桂乃芬テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "귀이네펜 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

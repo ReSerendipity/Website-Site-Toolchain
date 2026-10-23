@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "welt",
+    "nameZh": "瓦尔特",
+    "nameEn": "Welt",
+    "nameJa": "ヴェルト",
+    "nameKo": "웰트",
+    "element": "imaginary",
+    "region": "星穹列车",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "这片银河容得下任何的可能性，而人的命运也不应当只有上天给予的那一条道路。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "瓦尔特文本收录",
+  "site": {
+    "title": {
+      "zh": "瓦尔特文本收录",
+      "en": "Welt Text Archive",
+      "ja": "ヴェルトテキストアーカイブ",
+      "ko": "웰트 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "瓦尔特相关文本内容收录",
+      "en": "Welt text content archive",
+      "ja": "ヴェルト関連テキストアーカイブ",
+      "ko": "웰트 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "瓦尔特,崩坏：星穹铁道,文本收录",
+      "en": "Welt,Honkai: Star Rail,text archive",
+      "ja": "ヴェルト,崩壊：スターレイル,テキスト",
+      "ko": "웰트,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "瓦尔特文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Welt Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ヴェルトテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "웰트 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

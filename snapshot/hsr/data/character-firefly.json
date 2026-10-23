@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "firefly",
+    "nameZh": "流萤",
+    "nameEn": "Firefly",
+    "nameJa": "ホタル",
+    "nameKo": "반디",
+    "element": "fire",
+    "region": "星核猎手",
+    "path": "destruction",
+    "rarity": 5,
+    "tagline": "火萤这种生物很神奇吧？它们或许会扑向火烛，或许会突然老化。但在那之前的每一个夜晚，它们的光芒会比星星更耀眼。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "流萤文本收录",
+  "site": {
+    "title": {
+      "zh": "流萤文本收录",
+      "en": "Firefly Text Archive",
+      "ja": "ホタルテキストアーカイブ",
+      "ko": "반디 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "流萤相关文本内容收录",
+      "en": "Firefly text content archive",
+      "ja": "ホタル関連テキストアーカイブ",
+      "ko": "반디 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "流萤,崩坏：星穹铁道,文本收录",
+      "en": "Firefly,Honkai: Star Rail,text archive",
+      "ja": "ホタル,崩壊：スターレイル,テキスト",
+      "ko": "반디,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "流萤文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Firefly Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ホタルテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "반디 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "pela",
+    "nameZh": "佩拉",
+    "nameEn": "Pela",
+    "nameJa": "ペラ",
+    "nameKo": "페라",
+    "element": "ice",
+    "region": "雅利洛-VI",
+    "path": "nihility",
+    "rarity": 4,
+    "tagline": "情报，是最锋利的武器。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "佩拉文本收录",
+  "site": {
+    "title": {
+      "zh": "佩拉文本收录",
+      "en": "Pela Text Archive",
+      "ja": "ペラテキストアーカイブ",
+      "ko": "페라 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "佩拉相关文本内容收录",
+      "en": "Pela text content archive",
+      "ja": "ペラ関連テキストアーカイブ",
+      "ko": "페라 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "佩拉,崩坏：星穹铁道,文本收录",
+      "en": "Pela,Honkai: Star Rail,text archive",
+      "ja": "ペラ,崩壊：スターレイル,テキスト",
+      "ko": "페라,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "佩拉文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Pela Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ペラテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "페라 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

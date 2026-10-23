@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "aventurine",
+    "nameZh": "砂金",
+    "nameEn": "Aventurine",
+    "nameJa": "アベンチュリン",
+    "nameKo": "아벤츄린",
+    "element": "imaginary",
+    "region": "匹诺康尼",
+    "path": "preservation",
+    "rarity": 5,
+    "tagline": "所有，或一无所有。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "砂金文本收录",
+  "site": {
+    "title": {
+      "zh": "砂金文本收录",
+      "en": "Aventurine Text Archive",
+      "ja": "アベンチュリンテキストアーカイブ",
+      "ko": "아벤츄린 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "砂金相关文本内容收录",
+      "en": "Aventurine text content archive",
+      "ja": "アベンチュリン関連テキストアーカイブ",
+      "ko": "아벤츄린 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "砂金,崩坏：星穹铁道,文本收录",
+      "en": "Aventurine,Honkai: Star Rail,text archive",
+      "ja": "アベンチュリン,崩壊：スターレイル,テキスト",
+      "ko": "아벤츄린,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "砂金文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Aventurine Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "アベンチュリンテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "아벤츄린 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

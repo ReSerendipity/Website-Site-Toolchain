@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "serval",
+    "nameZh": "希露瓦",
+    "nameEn": "Serval",
+    "nameJa": "セルヴァル",
+    "nameKo": "세르발",
+    "element": "lightning",
+    "region": "雅利洛-VI",
+    "path": "erudition",
+    "rarity": 4,
+    "tagline": "我只想搞明白，是什么让这个世界运转。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "希露瓦文本收录",
+  "site": {
+    "title": {
+      "zh": "希露瓦文本收录",
+      "en": "Serval Text Archive",
+      "ja": "セルヴァルテキストアーカイブ",
+      "ko": "세르발 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "希露瓦相关文本内容收录",
+      "en": "Serval text content archive",
+      "ja": "セルヴァル関連テキストアーカイブ",
+      "ko": "세르발 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "希露瓦,崩坏：星穹铁道,文本收录",
+      "en": "Serval,Honkai: Star Rail,text archive",
+      "ja": "セルヴァル,崩壊：スターレイル,テキスト",
+      "ko": "세르발,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "希露瓦文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Serval Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "セルヴァルテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "세르발 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

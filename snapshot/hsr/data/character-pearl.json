@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "pearl",
+    "nameZh": "真珠",
+    "nameEn": "Pearl",
+    "nameJa": "パール",
+    "nameKo": "펄",
+    "element": "ice",
+    "region": "二相乐园",
+    "path": "elation",
+    "rarity": 5,
+    "tagline": "珠光映照，策略与欢愉交织。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "真珠文本收录",
+  "site": {
+    "title": {
+      "zh": "真珠文本收录",
+      "en": "Pearl Text Archive",
+      "ja": "パールテキストアーカイブ",
+      "ko": "펄 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "真珠相关文本内容收录",
+      "en": "Pearl related text content archive",
+      "ja": "パール関連テキストアーカイブ",
+      "ko": "펄 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "真珠,崩坏：星穹铁道,文本收录",
+      "en": "Pearl,Honkai: Star Rail,text archive",
+      "ja": "パール,崩壊：スターレイル,テキスト",
+      "ko": "펄,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "真珠文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Pearl Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "パールテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "펄 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

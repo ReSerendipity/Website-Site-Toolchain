@@ -1,0 +1,63 @@
+{
+  "character": "jean",
+  "title": "琴文本收录",
+  "tagline": "",
+  "description": "",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#2ecc71",
+    "brand2": "#87CEEB",
+    "brand3": "#bae6fd",
+    "brandSoft": "rgba(46, 204, 113, 0.14)",
+    "brandLight": "#bae6fd",
+    "brandLighter": "#d1fae5",
+    "brandDark": "#059669",
+    "brandDarker": "#047857"
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/anemo-official.png",
+    "elementIcon": "/elements/anemo-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 原神文本收录计划",
+    "copyright": "© 2026 有缘自然重逢. | 原神文本衍生整理作品 | 游戏资源与文本版权归米哈游所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {},
+  "effects": {},
+  "assets": {}
+}

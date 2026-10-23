@@ -1,0 +1,59 @@
+{
+  "character": {
+    "name": "silver-wolf-lv999",
+    "nameZh": "银狼LV.999",
+    "nameEn": "Silver Wolf LV.999",
+    "nameJa": "銀狼LV.999",
+    "nameKo": "은랑 LV.999",
+    "element": "imaginary",
+    "region": "星核猎手",
+    "path": "elation",
+    "rarity": 5,
+    "tagline": "游戏开始了，这次的关卡难度——我给满分。",
+    "variantOf": "silver-wolf",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "银狼LV.999文本收录",
+  "site": {
+    "title": {
+      "zh": "银狼LV.999文本收录",
+      "en": "Silver Wolf LV.999 Text Archive",
+      "ja": "銀狼LV.999テキストアーカイブ",
+      "ko": "은랑 LV.999 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "银狼LV.999相关文本内容收录",
+      "en": "Silver Wolf LV.999 related text content archive",
+      "ja": "銀狼LV.999関連テキストアーカイブ",
+      "ko": "은랑 LV.999 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "银狼LV.999,崩坏：星穹铁道,文本收录",
+      "en": "Silver Wolf LV.999,Honkai: Star Rail,text archive",
+      "ja": "銀狼LV.999,崩壊：スターレイル,テキスト",
+      "ko": "은랑 LV.999,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "银狼LV.999文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Silver Wolf LV.999 Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "銀狼LV.999テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "은랑 LV.999 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

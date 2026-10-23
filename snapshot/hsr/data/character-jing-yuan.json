@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "jing-yuan",
+    "nameZh": "景元",
+    "nameEn": "Jing Yuan",
+    "nameJa": "景元",
+    "nameKo": "경원",
+    "element": "lightning",
+    "region": "仙舟「罗浮」",
+    "path": "erudition",
+    "rarity": 5,
+    "tagline": "我闭目良久，万事皆明。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "景元文本收录",
+  "site": {
+    "title": {
+      "zh": "景元文本收录",
+      "en": "Jing Yuan Text Archive",
+      "ja": "景元テキストアーカイブ",
+      "ko": "경원 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "景元相关文本内容收录",
+      "en": "Jing Yuan text content archive",
+      "ja": "景元関連テキストアーカイブ",
+      "ko": "경원 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "景元,崩坏：星穹铁道,文本收录",
+      "en": "Jing Yuan,Honkai: Star Rail,text archive",
+      "ja": "景元,崩壊：スターレイル,テキスト",
+      "ko": "경원,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "景元文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Jing Yuan Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "景元テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "경원 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

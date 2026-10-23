@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "aglaea",
+    "nameZh": "阿格莱雅",
+    "nameEn": "Aglaea",
+    "nameJa": "アグライア",
+    "nameKo": "아글라이아",
+    "element": "lightning",
+    "region": "翁法罗斯",
+    "path": "remembrance",
+    "rarity": 5,
+    "tagline": "金丝，编织命运。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "阿格莱雅文本收录",
+  "site": {
+    "title": {
+      "zh": "阿格莱雅文本收录",
+      "en": "Aglaea Text Archive",
+      "ja": "アグライアテキストアーカイブ",
+      "ko": "아글라이아 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "阿格莱雅相关文本内容收录",
+      "en": "Aglaea text content archive",
+      "ja": "アグライア関連テキストアーカイブ",
+      "ko": "아글라이아 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "阿格莱雅,崩坏：星穹铁道,文本收录",
+      "en": "Aglaea,Honkai: Star Rail,text archive",
+      "ja": "アグライア,崩壊：スターレイル,テキスト",
+      "ko": "아글라이아,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "阿格莱雅文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Aglaea Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "アグライアテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "아글라이아 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

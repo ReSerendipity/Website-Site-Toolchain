@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "misha",
+    "nameZh": "米沙",
+    "nameEn": "Misha",
+    "nameJa": "ミーシャ",
+    "nameKo": "미샤",
+    "element": "ice",
+    "region": "仙舟「罗浮」",
+    "path": "destruction",
+    "rarity": 4,
+    "tagline": "欢迎光临！这里永远为您敞开大门。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "米沙文本收录",
+  "site": {
+    "title": {
+      "zh": "米沙文本收录",
+      "en": "Misha Text Archive",
+      "ja": "ミーシャテキストアーカイブ",
+      "ko": "미샤 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "米沙相关文本内容收录",
+      "en": "Misha text content archive",
+      "ja": "ミーシャ関連テキストアーカイブ",
+      "ko": "미샤 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "米沙,崩坏：星穹铁道,文本收录",
+      "en": "Misha,Honkai: Star Rail,text archive",
+      "ja": "ミーシャ,崩壊：スターレイル,テキスト",
+      "ko": "미샤,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "米沙文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Misha Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ミーシャテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "미샤 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

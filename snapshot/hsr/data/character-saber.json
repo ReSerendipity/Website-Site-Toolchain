@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "saber",
+    "nameZh": "Saber",
+    "nameEn": "Saber",
+    "nameJa": "セイバー",
+    "nameKo": "세이버",
+    "element": "wind",
+    "region": "星穹列车",
+    "path": "destruction",
+    "rarity": 5,
+    "tagline": "你就是我的御主吗？我将成为你的剑，为你而战。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "Saber文本收录",
+  "site": {
+    "title": {
+      "zh": "Saber文本收录",
+      "en": "Saber Text Archive",
+      "ja": "セイバーテキストアーカイブ",
+      "ko": "세이버 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "Saber相关文本内容收录",
+      "en": "Saber related text content archive",
+      "ja": "セイバー関連テキストアーカイブ",
+      "ko": "세이버 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "Saber,崩坏：星穹铁道,文本收录",
+      "en": "Saber,Honkai: Star Rail,text archive",
+      "ja": "セイバー,崩壊：スターレイル,テキスト",
+      "ko": "세이버,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "Saber文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Saber Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "セイバーテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "세이버 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

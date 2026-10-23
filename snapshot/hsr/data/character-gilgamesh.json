@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "gilgamesh",
+    "nameZh": "吉尔伽美什",
+    "nameEn": "Gilgamesh",
+    "nameJa": "ギルガメッシュ",
+    "nameKo": "길가메시",
+    "element": "lightning",
+    "region": "星穹列车",
+    "path": "destruction",
+    "rarity": 5,
+    "tagline": "星核，我的财宝。等你行至终点，本王就将你封入宝库深处，最安全的位置吧…哼，话虽如此，你的开拓还将继续许久。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "吉尔伽美什文本收录",
+  "site": {
+    "title": {
+      "zh": "吉尔伽美什文本收录",
+      "en": "Gilgamesh Text Archive",
+      "ja": "ギルガメッシュテキストアーカイブ",
+      "ko": "길가메시 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "吉尔伽美什相关文本内容收录",
+      "en": "Gilgamesh related text content archive",
+      "ja": "ギルガメッシュ関連テキストアーカイブ",
+      "ko": "길가메시 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "吉尔伽美什,崩坏：星穹铁道,文本收录",
+      "en": "Gilgamesh,Honkai: Star Rail,text archive",
+      "ja": "ギルガメッシュ,崩壊：スターレイル,テキスト",
+      "ko": "길가메시,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "吉尔伽美什文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Gilgamesh Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ギルガメッシュテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "길가메시 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

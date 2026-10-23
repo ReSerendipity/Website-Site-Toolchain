@@ -1,0 +1,71 @@
+{
+  "character": {
+    "name": "迪奥娜",
+    "nameEn": "diona",
+    "nameJa": "ディオナ",
+    "nameKo": "디오나",
+    "element": "cryo",
+    "region": "蒙德",
+    "weapon": "弓"
+  },
+  "title": "迪奥娜文本收录",
+  "tagline": "",
+  "description": "",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#ef7a4a",
+    "brand2": "#d4602e",
+    "brand3": "#f5a07a",
+    "brandSoft": "rgba(239, 122, 74, 0.14)",
+    "brandLight": "#f5a07a",
+    "brandLighter": "#fde8db",
+    "brandDark": "#c4572a",
+    "brandDarker": "#a34522"
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/elements/cryo-official.png",
+    "elementIcon": "/elements/cryo-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 原神文本收录计划",
+    "copyright": "© 2026 有缘自然重逢. | 原神文本衍生整理作品 | 游戏资源与文本版权归米哈游所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {},
+  "effects": {},
+  "assets": {}
+}

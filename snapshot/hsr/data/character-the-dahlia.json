@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "the-dahlia",
+    "nameZh": "大丽花",
+    "nameEn": "The Dahlia",
+    "nameJa": "ザ・ダリア",
+    "nameKo": "더 달리아",
+    "element": "fire",
+    "region": "二相乐园",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "大丽花盛开之时，好戏才刚刚开场。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "大丽花文本收录",
+  "site": {
+    "title": {
+      "zh": "大丽花文本收录",
+      "en": "The Dahlia Text Archive",
+      "ja": "ザ・ダリアテキストアーカイブ",
+      "ko": "더 달리아 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "大丽花相关文本内容收录",
+      "en": "The Dahlia related text content archive",
+      "ja": "ザ・ダリア関連テキストアーカイブ",
+      "ko": "더 달리아 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "大丽花,崩坏：星穹铁道,文本收录",
+      "en": "The Dahlia,Honkai: Star Rail,text archive",
+      "ja": "ザ・ダリア,崩壊：スターレイル,テキスト",
+      "ko": "더 달리아,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "大丽花文本收录 | 游戏内容版权归米哈游所有",
+    "en": "The Dahlia Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ザ・ダリアテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "더 달리아 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

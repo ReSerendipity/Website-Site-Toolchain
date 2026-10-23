@@ -1,0 +1,100 @@
+{
+  "character": {
+    "name": "蕾米埃尔",
+    "nameEn": "Remielle Dan",
+    "nameJa": "",
+    "nameKo": "",
+    "attribute": "ether",
+    "faction": "达识结社",
+    "wEngine": ""
+  },
+  "_verification": {
+    "status": "pending-client-verify",
+    "source": "B站 Wiki / Fandom Wiki（2026-09-06 联网核验）",
+    "notes": [
+      "特性「异常/Anomaly」（Wiki 与站点口径）与调研报告「强攻」记载矛盾，待客户端复核",
+      "流明暂归 ether（无独立伤害判定），待核验",
+      "nameJa/nameKo 留空（此前误填英文名占位），须游戏内 JA/KO 客户端核验后回填"
+    ]
+  },
+  "title": "蕾米埃尔文本收录",
+  "tagline": "",
+  "description": "相关文本内容收录",
+  "base": "/",
+  "appearance": "dark",
+  "colors": {
+    "brand1": "#FF2E97",
+    "brand2": "#00E5FF",
+    "brand3": "#FFD24E",
+    "brandSoft": "#20203a",
+    "brandLight": "#FF6FB5",
+    "brandLighter": "#ffd6ea",
+    "brandDark": "#0a0a12",
+    "brandDarker": "#050509"
+  },
+  "theme": {
+    "gradient": {
+      "start": "#00E5FF",
+      "mid": "#FF2E97",
+      "end": "#FFD24E"
+    },
+    "quoteGradient": {
+      "start": "#00E5FF",
+      "end": "#FFD24E"
+    }
+  },
+  "site": {
+    "logo": "/images/center.png",
+    "favicon": "/images/center.png",
+    "elementIcon": "/elements/ether-official.png"
+  },
+  "nav": [
+    {
+      "text": "前言",
+      "link": "/00 介绍/0.0 前言"
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "00 介绍",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "0.0 前言",
+          "link": "/00 介绍/0.0 前言"
+        }
+      ]
+    },
+    {
+      "text": "01 角色资料",
+      "collapsible": true,
+      "collapsed": true,
+      "items": [
+        {
+          "text": "1.1 角色-资料页",
+          "link": "/01 角色资料/1.1 角色-资料页"
+        }
+      ]
+    }
+  ],
+  "footer": {
+    "message": "基于 VitePress 构建 | 绝区零文本收录计划",
+    "copyright": "© 2025 绝区零文本衍生整理作品 | 游戏资源与文本版权归 HoYoverse（米哈游）所有 | 本站仅供学习交流使用"
+  },
+  "labels": {},
+  "giscus": null,
+  "social": {},
+  "hero": {
+    "name": "",
+    "text": ""
+  },
+  "effects": {
+    "enabled": true,
+    "type": "ether",
+    "particleCount": 30
+  },
+  "assets": {
+    "heroBackgroundImage": "/images/center.png"
+  }
+}

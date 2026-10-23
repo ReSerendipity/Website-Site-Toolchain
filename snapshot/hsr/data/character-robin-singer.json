@@ -1,0 +1,59 @@
+{
+  "character": {
+    "name": "robin-singer",
+    "nameZh": "知更鸟•晴歌",
+    "nameEn": "Robin • Summeretto",
+    "nameJa": "ロビン・晴歌",
+    "nameKo": "로빈·청가",
+    "element": "wind",
+    "region": "星穹列车",
+    "path": "remembrance",
+    "rarity": 5,
+    "tagline": "让歌声，响彻匹诺康尼！",
+    "source": "official",
+    "pendingVerify": false,
+    "variantOf": "robin"
+  },
+  "title": "知更鸟•晴歌文本收录",
+  "site": {
+    "title": {
+      "zh": "知更鸟文本收录",
+      "en": "Robin Text Archive",
+      "ja": "ロビンテキストアーカイブ",
+      "ko": "로빈 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "知更鸟相关文本内容收录",
+      "en": "Robin text content archive",
+      "ja": "ロビン関連テキストアーカイブ",
+      "ko": "로빈 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "知更鸟,崩坏：星穹铁道,文本收录",
+      "en": "Robin,Honkai: Star Rail,text archive",
+      "ja": "ロビン,崩壊：スターレイル,テキスト",
+      "ko": "로빈,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "知更鸟文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Robin Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ロビンテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "로빈 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

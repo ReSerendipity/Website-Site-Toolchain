@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "xueyi",
+    "nameZh": "雪衣",
+    "nameEn": "Xueyi",
+    "nameJa": "雪衣",
+    "nameKo": "설의",
+    "element": "quantum",
+    "region": "仙舟「罗浮」",
+    "path": "destruction",
+    "rarity": 4,
+    "tagline": "裁决已至，无人可逃。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "雪衣文本收录",
+  "site": {
+    "title": {
+      "zh": "雪衣文本收录",
+      "en": "Xueyi Text Archive",
+      "ja": "雪衣テキストアーカイブ",
+      "ko": "설의 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "雪衣相关文本内容收录",
+      "en": "Xueyi text content archive",
+      "ja": "雪衣関連テキストアーカイブ",
+      "ko": "설의 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "雪衣,崩坏：星穹铁道,文本收录",
+      "en": "Xueyi,Honkai: Star Rail,text archive",
+      "ja": "雪衣,崩壊：スターレイル,テキスト",
+      "ko": "설의,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "雪衣文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Xueyi Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "雪衣テキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "설의 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

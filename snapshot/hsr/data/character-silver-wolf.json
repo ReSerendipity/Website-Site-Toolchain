@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "silver-wolf",
+    "nameZh": "银狼",
+    "nameEn": "Silver Wolf",
+    "nameJa": "シルバーウルフ",
+    "nameKo": "실버울프",
+    "element": "quantum",
+    "region": "星核猎手",
+    "path": "nihility",
+    "rarity": 5,
+    "tagline": "这次能让我玩得开心点吗？",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "银狼文本收录",
+  "site": {
+    "title": {
+      "zh": "银狼文本收录",
+      "en": "Silver Wolf Text Archive",
+      "ja": "シルバーウルフテキストアーカイブ",
+      "ko": "실버울프 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "银狼相关文本内容收录",
+      "en": "Silver Wolf text content archive",
+      "ja": "シルバーウルフ関連テキストアーカイブ",
+      "ko": "실버울프 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "银狼,崩坏：星穹铁道,文本收录",
+      "en": "Silver Wolf,Honkai: Star Rail,text archive",
+      "ja": "シルバーウルフ,崩壊：スターレイル,テキスト",
+      "ko": "실버울프,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "银狼文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Silver Wolf Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "シルバーウルフテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "실버울프 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

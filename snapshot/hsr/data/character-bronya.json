@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "bronya",
+    "nameZh": "布洛妮娅",
+    "nameEn": "Bronya",
+    "nameJa": "ブローニャ",
+    "nameKo": "브로냐",
+    "element": "wind",
+    "region": "雅利洛-VI",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "贝洛伯格的存续，就是我最大的愿望。",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "布洛妮娅文本收录",
+  "site": {
+    "title": {
+      "zh": "布洛妮娅文本收录",
+      "en": "Bronya Text Archive",
+      "ja": "ブローニャテキストアーカイブ",
+      "ko": "브로냐 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "布洛妮娅相关文本内容收录",
+      "en": "Bronya text content archive",
+      "ja": "ブローニャ関連テキストアーカイブ",
+      "ko": "브로냐 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "布洛妮娅,崩坏：星穹铁道,文本收录",
+      "en": "Bronya,Honkai: Star Rail,text archive",
+      "ja": "ブローニャ,崩壊：スターレイル,テキスト",
+      "ko": "브로냐,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "布洛妮娅文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Bronya Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "ブローニャテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "브로냐 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "name": "cerydra",
+    "nameZh": "刻律德菈",
+    "nameEn": "Cerydra",
+    "nameJa": "セリドラ",
+    "nameKo": "세리드라",
+    "element": "wind",
+    "region": "二相乐园",
+    "path": "harmony",
+    "rarity": 5,
+    "tagline": "这绝非终点，翁法罗斯的征途，当是银河群星！",
+    "source": "official",
+    "pendingVerify": false
+  },
+  "title": "刻律德菈文本收录",
+  "site": {
+    "title": {
+      "zh": "刻律德菈文本收录",
+      "en": "Cerydra Text Archive",
+      "ja": "セリドラテキストアーカイブ",
+      "ko": "세리드라 텍스트 아카이브"
+    },
+    "description": {
+      "zh": "刻律德菈相关文本内容收录",
+      "en": "Cerydra related text content archive",
+      "ja": "セリドラ関連テキストアーカイブ",
+      "ko": "세리드라 관련 텍스트 아카이브"
+    },
+    "url": "",
+    "repo": "",
+    "favicon": "/images/center.png"
+  },
+  "assets": {
+    "hero": {
+      "backgroundImage": "/images/center.png"
+    },
+    "icons": {
+      "elementIcon": "/images/center.png",
+      "backToTopIcon": "/images/center.png"
+    }
+  },
+  "seo": {
+    "keywords": {
+      "zh": "刻律德菈,崩坏：星穹铁道,文本收录",
+      "en": "Cerydra,Honkai: Star Rail,text archive",
+      "ja": "セリドラ,崩壊：スターレイル,テキスト",
+      "ko": "세리드라,붕괴: 스타레일,텍스트"
+    }
+  },
+  "footer": {
+    "zh": "刻律德菈文本收录 | 游戏内容版权归米哈游所有",
+    "en": "Cerydra Text Archive | Game content copyright belongs to miHoYo",
+    "ja": "セリドラテキストアーカイブ | ゲームコンテンツの著作権はmiHoYoに帰属します",
+    "ko": "세리드라 텍스트 아카이브 | 게임 콘텐츠 저작권은 miHoYo에 있습니다"
+  },
+  "effects": {}
+}
