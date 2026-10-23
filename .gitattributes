@@ -1,0 +1,2 @@
+# 与四个内容仓一致：本机 core.autocrlf=true 会造成幻影修改（治理规范 §18.2）
+* text=auto eol=lf
