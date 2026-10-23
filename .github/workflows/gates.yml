@@ -1,7 +1,10 @@
 name: Snapshot Gates
 
-# 公开仓的门禁 CI —— 全部在此免费额度内运行，不消耗私有仓 Actions 分钟。
+# 公开仓的门禁 CI —— 在公开仓免费额度内运行，不消耗私有仓 Actions 分钟。
 # 输入是 snapshot/（结构签名，不含游戏正文），由私有仓 tools/snapshot-content.mjs 导出。
+#
+# 本仓零运行时依赖（只用 Node 内置模块），故不装包、不配 npm cache
+# （无 lockfile 时 cache: npm 会让 setup-node 直接失败）。
 
 on:
   push:
@@ -29,12 +32,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 24
-          cache: npm
 
-      - name: 安装依赖
-        run: npm ci --prefer-offline || npm install --no-audit --no-fund
-
-      - name: 快照结构门禁
+      - name: 快照结构门禁（四仓）
         run: node tools/verify-snapshot.mjs
 
       - name: 工具链自测
