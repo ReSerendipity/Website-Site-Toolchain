@@ -3,6 +3,8 @@
 结构签名门禁工具链。为四个角色文本归档站（原神 / 星穹铁道 / 鸣潮 / 绝区零）提供
 **不接触游戏正文**的门禁校验，因此可以公开托管、使用公开仓的免费 Actions 额度。
 
+[![Snapshot Gates](https://github.com/ReSerendipity/Website-Site-Toolchain/actions/workflows/gates.yml/badge.svg)](https://github.com/ReSerendipity/Website-Site-Toolchain/actions/workflows/gates.yml)
+
 > 治理规范：[ReSerendipity/.github/governance](https://github.com/ReSerendipity/.github/tree/main/governance)
 
 ## 为什么不是全文镜像
