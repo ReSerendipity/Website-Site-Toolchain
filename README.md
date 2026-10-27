@@ -3,6 +3,8 @@
 结构签名门禁工具链。为四个角色文本归档站（原神 / 星穹铁道 / 鸣潮 / 绝区零）提供
 **不接触游戏正文**的门禁校验，因此可以公开托管、使用公开仓的免费 Actions 额度。
 
+> 治理规范：[ReSerendipity/.github/governance](https://github.com/ReSerendipity/.github/tree/main/governance)
+
 ## 为什么不是全文镜像
 
 私有内容仓合计 1.53 GiB / 93,586 个 Markdown，且正文版权归 HoYoverse（见各仓
